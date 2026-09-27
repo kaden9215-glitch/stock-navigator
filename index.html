@@ -1,4 +1,17 @@
-
+답장읽음삭제더보기
+뒤로 가기
+메일 제목ㅇㅇ
+받는 사람/참조 숨기기
+보낸사람
+김승하 <seungha.kim@samsung.com>
+받는사람
+arsenalfanz@naver.com
+참조
+김승하
+2026년 9월 27일 (일) 오후 9:07
+글자 크기 조정중요 메일
+출발 언어영어도착 언어한국어번역하기
+메일 본문의 글자가 더 잘 보이도록 해드려요.
 <!DOCTYPE html>
 
 <html lang="ko">
@@ -157,7 +170,7 @@
 
                         <select id="scan-market" class="w-full bg-slate-50 border border-slate-200 rounded-lg px-2.5 py-1.5 text-xs focus:outline-none focus:ring-1 focus:ring-blue-500 font-semibold text-slate-700">
 
-                            <option value="all">전체 (국내 코스피/코스닥 + 미국 Top 100)</option>
+                            <option value="all">전체 (국내 KOSPI/KOSDAQ + 미국 Top 100)</option>
 
                             <option value="kr">국내 주식만 (코스피 100 + 코스닥 100)</option>
 
@@ -181,7 +194,7 @@
 
                             <div class="flex bg-slate-100 p-0.5 rounded-md text-[10px] font-semibold">
 
-                                <button type="button" onclick="setPeriod('day')" id="btn-period-day" class="px-2 py-0.5 rounded bg-white text-blue-600 shadow-xs">일봉</button>
+                                <button type="button" onclick="setPeriod('day')" id="btn-period-day" class="px-2 py-0.5 rounded bg-white text-blue-600 shadow-xs font-bold">일봉</button>
 
                                 <button type="button" onclick="setPeriod('week')" id="btn-period-week" class="px-2 py-0.5 rounded text-slate-500">주봉</button>
 
@@ -209,7 +222,7 @@
 
 
 
-                    <!-- 3. 이격도 (20일선 괴리율) 조건 (신규) -->
+                    <!-- 3. 이격도 (20일선 괴리율) 조건 -->
 
                     <div>
 
@@ -775,11 +788,11 @@
 
             let matches = mockDb.filter(stock => {
 
-                // 1. 시장 필터 (국내 vs 미국 vs 전체)
+                // 1. 시장 필터 (국내 KOSPI/KOSDAQ vs 미국 US vs 전체) - 오류 수정 완료!
 
-                if (marketFilter === 'kr' && stock.sector.includes('US')) return false;
+                if (marketFilter === 'kr' && (stock.sector === 'US (미국)' || stock.sector.includes('US'))) return false;
 
-                if (marketFilter === 'us' && !stock.sector.includes('US')) return false;
+                if (marketFilter === 'us' && (stock.sector === 'KOSPI' || stock.sector === 'KOSDAQ')) return false;
 
 
 
@@ -1041,8 +1054,3 @@
 
 </html>
 
-
-
- 
-
- 
