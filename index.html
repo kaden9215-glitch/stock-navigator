@@ -20,7 +20,7 @@
 
     <style>
 
-        @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght=400;600;700&display=swap');
 
         body {
 
@@ -48,7 +48,7 @@
 
     <!-- 모바일 미니 헤더 -->
 
-    <header class="bg-white border-b border-slate-100 sticky top-0 z-50 px-4 py-3 flex justify-between items-center shadow-xs">
+    <header class="bg-white border-b border-slate-100 sticky top-0 z-30 px-4 py-3 flex justify-between items-center shadow-xs">
 
         <div class="flex items-center space-x-1.5">
 
@@ -72,7 +72,7 @@
 
     <!-- 모바일 상단 고정 탭바 (검색기가 맨 앞) -->
 
-    <nav class="sticky top-[45px] z-40 bg-white border-b border-slate-200 shadow-xs">
+    <nav class="sticky top-[45px] z-30 bg-white border-b border-slate-200 shadow-xs">
 
         <div class="max-w-md mx-auto flex overflow-x-auto no-scrollbar py-1 px-1">
 
@@ -314,6 +314,12 @@
 
                 </div>
 
+                <div class="text-[10px] text-slate-400 bg-slate-50 p-2 rounded-lg text-center">
+
+                    💡 종목을 <strong>터치</strong>하면 실시간 주가 차트가 열립니다.
+
+                </div>
+
                 <div id="scanner-list-container" class="space-y-2"></div>
 
             </div>
@@ -506,7 +512,7 @@
 
                 <div id="search-result-area" class="hidden mt-4 pt-3 border-t border-slate-100 space-y-3">
 
-                    <div class="bg-slate-50 border border-slate-150 rounded-lg p-3 space-y-2.5">
+                    <div onclick="openChartFromSearch()" class="cursor-pointer bg-slate-50 hover:bg-slate-100 border border-slate-150 rounded-lg p-3 space-y-2.5 transition">
 
                         <div class="flex justify-between items-center border-b border-slate-200/80 pb-1.5">
 
@@ -518,7 +524,13 @@
 
                             </div>
 
-                            <span class="text-[10px] text-blue-600 font-bold">대표 우량주</span>
+                            <span class="text-[10px] text-blue-600 font-bold flex items-center gap-1">
+
+                                <i data-lucide="line-chart" class="w-3.5 h-3.5"></i>
+
+                                <span>터치하여 차트 보기</span>
+
+                            </span>
 
                         </div>
 
@@ -586,20 +598,6 @@
 
                 </div>
 
-                <div class="bg-white p-3.5 rounded-xl border border-slate-200/80 shadow-xs">
-
-                    <div class="flex justify-between items-start">
-
-                        <h4 class="font-bold text-xs text-slate-900">거래량 급증비율 <span class="text-[10px] text-slate-400 font-normal">(수급 시그널)</span></h4>
-
-                        <span class="text-[9px] text-emerald-600 bg-emerald-50 px-1.5 py-0.5 rounded font-bold">수급 분석</span>
-
-                    </div>
-
-                    <p class="text-[11px] text-slate-600 mt-1.5 leading-relaxed">바닥권에서 전일 대비 거래량이 200~300% 이상 폭증했다는 것은 대형 세력이나 기관이 본격적인 매집을 개시했다는 신호로 해석됩니다.</p>
-
-                </div>
-
             </div>
 
         </section>
@@ -646,6 +644,60 @@
 
 
 
+    <!-- ==================== [신규] 실시간 주가 차트 모달 팝업레이아웃 ==================== -->
+
+    <div id="chart-modal" class="hidden fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-xs flex items-end sm:items-center justify-center p-0 sm:p-4">
+
+        <div class="bg-white w-full sm:max-w-md rounded-t-2xl sm:rounded-2xl shadow-2xl flex flex-col h-[80vh] sm:h-[600px] overflow-hidden">
+
+            <!-- 팝업 헤더 -->
+
+            <div class="px-4 py-3 border-b border-slate-200 flex justify-between items-center bg-slate-50">
+
+                <div class="flex items-center space-x-2">
+
+                    <i data-lucide="line-chart" class="w-5 h-5 text-blue-600"></i>
+
+                    <h4 id="chart-title" class="font-bold text-slate-900 text-sm">삼성전자 실시간 차트</h4>
+
+                    <span id="chart-market-badge" class="text-[9px] bg-slate-200 text-slate-700 px-1 py-0.2 rounded font-mono">KRX</span>
+
+                </div>
+
+                <button onclick="closeChartModal()" class="text-slate-400 hover:text-slate-600 p-1 rounded-lg">
+
+                    <i data-lucide="x" class="w-5 h-5"></i>
+
+                </button>
+
+            </div>
+
+            <!-- 실시간 트레이딩뷰 위젯 영역 -->
+
+            <div class="flex-1 bg-slate-900 relative">
+
+                <div id="tradingview-widget-container" class="w-full h-full">
+
+                    <!-- 스크립트로 아이프레임이 동적 삽입됨 -->
+
+                </div>
+
+            </div>
+
+            <!-- 팝업 하단 안내 -->
+
+            <div class="p-3 bg-slate-50 text-center border-t border-slate-200">
+
+                <span class="text-[10px] text-slate-400 font-medium">※ 트레이딩뷰 실시간 데이터 위젯이 연동되었습니다.</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
     <!-- 스크립트 로직 -->
 
     <script>
@@ -656,7 +708,11 @@
 
         let currentPeriod = 'day';
 
-        let mockDb = []; // stocks.json을 동적으로 담을 전역 배열
+        let mockDb = []; 
+
+        let searchedCodeForChart = "005930"; // 종목검색 탭의 차트 연동용 임시 변수
+
+        let searchedSectorForChart = "KOSPI";
 
 
 
@@ -710,7 +766,7 @@
 
 
 
-        // 페이지 로드 시 stocks.json 읽어오기
+        // 페이지 로드 시 stocks.json 동기화
 
         window.addEventListener('DOMContentLoaded', () => {
 
@@ -731,8 +787,6 @@
                 .catch(err => {
 
                     console.warn("로컬 테스트 모드 (기본 데이터 생성)");
-
-                    // 파일 없을 때 기본 시뮬레이션용 데이터
 
                     mockDb = [
 
@@ -774,7 +828,7 @@
 
             let matches = mockDb.filter(stock => {
 
-                // 1. 시장 필터 (국내 KOSPI/KOSDAQ vs 미국 US vs 전체) - 오류 수정 완료!
+                // 1. 시장 필터 (국내 vs 미국 vs 전체)
 
                 if (marketFilter === 'kr' && (stock.sector === 'US (미국)' || stock.sector.includes('US'))) return false;
 
@@ -896,7 +950,13 @@
 
                     const card = document.createElement('div');
 
-                    card.className = "p-2.5 bg-slate-50 border border-slate-150 rounded-lg text-xs space-y-1.5";
+                    card.className = "p-2.5 bg-slate-50 hover:bg-slate-100 border border-slate-150 rounded-lg text-xs space-y-1.5 transition cursor-pointer active:scale-[0.99]";
+
+                    // 터치 시 차트 팝업 열기 바인딩
+
+                    card.onclick = () => openChartModal(item.name, item.code, item.sector);
+
+                    
 
                     card.innerHTML = `
 
@@ -949,6 +1009,164 @@
 
 
             resultBox.classList.remove('hidden');
+
+            lucide.createIcons();
+
+        }
+
+
+
+        // ==================== [신규] 실시간 트레이딩뷰 차트 연동 로직 ====================
+
+        function openChartModal(name, code, sector) {
+
+            document.getElementById('chart-title').innerText = `${name} 실시간 차트`;
+
+            
+
+            let marketSymbol = "";
+
+            let tvSector = sector;
+
+            
+
+            // 시장 소속 분석하여 트레이딩뷰 규격으로 맞춤
+
+            if (sector === "KOSPI") {
+
+                marketSymbol = `KRX:${code}`;
+
+                tvSector = "KOSPI";
+
+            } else if (sector === "KOSDAQ") {
+
+                marketSymbol = `KRX:${code}`;
+
+                tvSector = "KOSDAQ";
+
+            } else {
+
+                // 미국 주식의 경우
+
+                marketSymbol = `${code}`;
+
+                tvSector = "US";
+
+            }
+
+            
+
+            document.getElementById('chart-market-badge').innerText = tvSector;
+
+
+
+            const container = document.getElementById('tradingview-widget-container');
+
+            container.innerHTML = ""; // 기존 차트 초기화
+
+
+
+            // 아이프레임 트레이딩뷰 위젯 동적 생성 (속도 극대화형 무료 공식 버전)
+
+            const iframe = document.createElement('iframe');
+
+            iframe.style.width = "100%";
+
+            iframe.style.height = "100%";
+
+            iframe.style.border = "none";
+
+            
+
+            // 트레이딩뷰 위젯 전송용 주소 조립
+
+            iframe.src = `https://s.tradingview.com/widgetembed/?frameElementId=tradingview_chart&symbol=${marketSymbol}&interval=D&hidesidetoolbar=1&symboledit=0&saveimage=0&toolbarbg=f1f3f6&studies=%5B%5D&theme=dark&style=1&timezone=Asia%2FSeoul&studies_overrides=%7B%7D&overrides=%7B%7D&enabled_features=%5B%5D&disabled_features=%5B%5D&locale=ko&utm_source=localhost&utm_medium=widget&utm_campaign=chart&utm_term=${marketSymbol}`;
+
+            
+
+            container.appendChild(iframe);
+
+
+
+            // 모달 노출
+
+            document.getElementById('chart-modal').classList.remove('hidden');
+
+            lucide.createIcons();
+
+        }
+
+
+
+        function closeChartModal() {
+
+            document.getElementById('chart-modal').classList.add('hidden');
+
+            document.getElementById('tradingview-widget-container').innerHTML = ""; // 자원 반환
+
+        }
+
+
+
+        // 종목검색 탭에서 특징 카드 클릭 시 차트 연동용 꼼수 함수
+
+        function openChartFromSearch() {
+
+            const name = document.getElementById('result-stock-name').innerText;
+
+            openChartModal(name, searchedCodeForChart, searchedSectorForChart);
+
+        }
+
+
+
+        // 종목검색 초안 로직 고도화
+
+        function searchStock() {
+
+            const val = document.getElementById('stock-search-input').value.trim();
+
+            if (!val) { alert('종목명을 입력하세요!'); return; }
+
+            
+
+            // 검색 키워드 바인딩
+
+            document.getElementById('searched-keyword').innerText = val;
+
+            document.getElementById('result-stock-name').innerText = val;
+
+
+
+            // 이미 동기화된 300개 데이터베이스에 검색어가 있는지 서치하여 매칭
+
+            const matchedStock = mockDb.find(s => s.name === val || s.code === val);
+
+            
+
+            if (matchedStock) {
+
+                searchedCodeForChart = matchedStock.code;
+
+                searchedSectorForChart = matchedStock.sector;
+
+                const badge = document.querySelector('#search-result-area .text-blue-600 font-bold') || document.querySelector('#search-result-area span.text-blue-600');
+
+                if(badge) badge.innerText = matchedStock.sector;
+
+            } else {
+
+                // 없을 경우 삼성전자 기본 코드로 보정
+
+                searchedCodeForChart = "005930";
+
+                searchedSectorForChart = "KOSPI";
+
+            }
+
+
+
+            document.getElementById('search-result-area').classList.remove('hidden');
 
             lucide.createIcons();
 
@@ -1018,25 +1236,7 @@
 
         }
 
-
-
-        // 종목검색 초안
-
-        function searchStock() {
-
-            const val = document.getElementById('stock-search-input').value.trim();
-
-            if (!val) { alert('종목명을 입력하세요!'); return; }
-
-            document.getElementById('result-stock-name').innerText = val;
-
-            document.getElementById('search-result-area').classList.remove('hidden');
-
-        }
-
     </script>
-
 </body>
-
 </html>
 
