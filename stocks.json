@@ -3,1479 +3,1479 @@
     "name": "삼성전자",
     "code": "005930",
     "sector": "KOSPI",
-    "price": 218000,
+    "price": 211500,
     "rsi": {
-      "day": 33.0,
-      "week": 42.6,
-      "month": 58.6
+      "day": 30.9,
+      "week": 41.2,
+      "month": 57.5
     },
-    "mdd": -41.7,
-    "ma20": 256325,
-    "disparity20": -15.0,
-    "volume": 17617415,
-    "vol_ratio": 93.2
+    "mdd": -43.5,
+    "ma20": 254225,
+    "disparity20": -16.8,
+    "volume": 17602165,
+    "vol_ratio": 99.9
   },
   {
     "name": "SK하이닉스",
     "code": "000660",
     "sector": "KOSPI",
-    "price": 1277000,
+    "price": 1223000,
     "rsi": {
-      "day": 26.5,
-      "week": 40.4,
-      "month": 55.1
+      "day": 24.6,
+      "week": 39.3,
+      "month": 54.2
     },
-    "mdd": -57.2,
-    "ma20": 1668450,
-    "disparity20": -23.5,
-    "volume": 3737172,
-    "vol_ratio": 81.9
+    "mdd": -59.0,
+    "ma20": 1641650,
+    "disparity20": -25.5,
+    "volume": 3680655,
+    "vol_ratio": 98.5
   },
   {
     "name": "LG에너지솔루션",
     "code": "373220",
     "sector": "KOSPI",
-    "price": 432000,
+    "price": 414000,
     "rsi": {
-      "day": 68.6,
-      "week": 60.0,
-      "month": 54.7
+      "day": 60.5,
+      "week": 57.2,
+      "month": 53.0
     },
-    "mdd": -18.0,
-    "ma20": 380225,
-    "disparity20": 13.6,
-    "volume": 803196,
-    "vol_ratio": 217.3
+    "mdd": -21.4,
+    "ma20": 382575,
+    "disparity20": 8.2,
+    "volume": 430232,
+    "vol_ratio": 56.1
   },
   {
     "name": "삼성바이오로직스",
     "code": "207940",
     "sector": "KOSPI",
-    "price": 1427000,
+    "price": 1391000,
     "rsi": {
-      "day": 58.0,
-      "week": 49.0,
-      "month": 44.7
+      "day": 54.0,
+      "week": 46.4,
+      "month": 42.9
     },
-    "mdd": -28.2,
-    "ma20": 1331580,
-    "disparity20": 7.2,
-    "volume": 158655,
-    "vol_ratio": 95.6
+    "mdd": -30.0,
+    "ma20": 1330680,
+    "disparity20": 4.5,
+    "volume": 98895,
+    "vol_ratio": 65.4
   },
   {
     "name": "현대차",
     "code": "005380",
     "sector": "KOSPI",
-    "price": 326000,
+    "price": 310000,
     "rsi": {
-      "day": 39.7,
-      "week": 37.2,
-      "month": 49.0
+      "day": 34.3,
+      "week": 34.5,
+      "month": 48.2
     },
-    "mdd": -58.1,
-    "ma20": 339925,
-    "disparity20": -4.1,
-    "volume": 554076,
-    "vol_ratio": 68.0
+    "mdd": -60.2,
+    "ma20": 337325,
+    "disparity20": -8.1,
+    "volume": 511625,
+    "vol_ratio": 92.3
   },
   {
     "name": "POSCO홀딩스",
     "code": "005490",
     "sector": "KOSPI",
-    "price": 314500,
+    "price": 302000,
     "rsi": {
-      "day": 51.0,
-      "week": 45.2,
-      "month": 49.2
+      "day": 44.8,
+      "week": 41.4,
+      "month": 47.7
     },
-    "mdd": -41.3,
-    "ma20": 310400,
-    "disparity20": 1.3,
-    "volume": 305101,
-    "vol_ratio": 118.2
+    "mdd": -43.7,
+    "ma20": 309175,
+    "disparity20": -2.3,
+    "volume": 239202,
+    "vol_ratio": 78.4
   },
   {
     "name": "기아",
     "code": "000270",
     "sector": "KOSPI",
-    "price": 116000,
+    "price": 112400,
     "rsi": {
-      "day": 49.6,
-      "week": 40.3,
-      "month": 49.5
+      "day": 44.2,
+      "week": 37.6,
+      "month": 48.4
     },
-    "mdd": -43.0,
-    "ma20": 113805,
-    "disparity20": 1.9,
-    "volume": 749813,
-    "vol_ratio": 92.6
+    "mdd": -44.8,
+    "ma20": 113390,
+    "disparity20": -0.9,
+    "volume": 591296,
+    "vol_ratio": 78.9
   },
   {
     "name": "NAVER",
     "code": "035420",
     "sector": "KOSPI",
-    "price": 182900,
+    "price": 178000,
     "rsi": {
-      "day": 39.2,
-      "week": 37.7,
-      "month": 44.1
+      "day": 35.3,
+      "week": 35.3,
+      "month": 43.3
     },
-    "mdd": -39.8,
-    "ma20": 189985,
-    "disparity20": -3.7,
-    "volume": 557422,
-    "vol_ratio": 83.1
+    "mdd": -41.4,
+    "ma20": 188810,
+    "disparity20": -5.7,
+    "volume": 467395,
+    "vol_ratio": 97.0
   },
   {
     "name": "LG화학",
     "code": "051910",
     "sector": "KOSPI",
-    "price": 275500,
+    "price": 252500,
     "rsi": {
-      "day": 54.2,
-      "week": 47.1,
-      "month": 47.5
+      "day": 45.0,
+      "week": 41.9,
+      "month": 45.1
     },
-    "mdd": -37.0,
-    "ma20": 263400,
-    "disparity20": 4.6,
-    "volume": 309328,
-    "vol_ratio": 189.5
+    "mdd": -42.3,
+    "ma20": 262475,
+    "disparity20": -3.8,
+    "volume": 304978,
+    "vol_ratio": 106.1
   },
   {
     "name": "삼성SDI",
     "code": "006400",
     "sector": "KOSPI",
-    "price": 592000,
+    "price": 556000,
     "rsi": {
-      "day": 59.6,
-      "week": 58.9,
-      "month": 60.6
+      "day": 52.1,
+      "week": 55.7,
+      "month": 59.1
     },
-    "mdd": -18.1,
-    "ma20": 544600,
-    "disparity20": 8.7,
-    "volume": 1040196,
-    "vol_ratio": 196.4
+    "mdd": -23.1,
+    "ma20": 545200,
+    "disparity20": 2.0,
+    "volume": 727781,
+    "vol_ratio": 70.0
   },
   {
     "name": "셀트리온",
     "code": "068270",
     "sector": "KOSPI",
-    "price": 198200,
+    "price": 197400,
     "rsi": {
-      "day": 71.4,
-      "week": 57.8,
-      "month": 58.3
+      "day": 69.8,
+      "week": 57.4,
+      "month": 58.1
     },
-    "mdd": -17.1,
-    "ma20": 181750,
-    "disparity20": 9.1,
-    "volume": 751353,
-    "vol_ratio": 67.5
+    "mdd": -17.4,
+    "ma20": 182760,
+    "disparity20": 8.0,
+    "volume": 728729,
+    "vol_ratio": 103.9
   },
   {
     "name": "카카오",
     "code": "035720",
     "sector": "KOSPI",
-    "price": 32100,
+    "price": 31550,
     "rsi": {
-      "day": 39.8,
-      "week": 32.0,
-      "month": 36.3
+      "day": 36.6,
+      "week": 30.6,
+      "month": 35.9
     },
-    "mdd": -53.9,
-    "ma20": 32927,
-    "disparity20": -2.5,
-    "volume": 1155064,
-    "vol_ratio": 65.5
+    "mdd": -54.7,
+    "ma20": 32830,
+    "disparity20": -3.9,
+    "volume": 1063144,
+    "vol_ratio": 101.3
   },
   {
     "name": "포스코퓨처엠",
     "code": "003670",
     "sector": "KOSPI",
-    "price": 190300,
+    "price": 178200,
     "rsi": {
-      "day": 54.3,
-      "week": 51.5,
-      "month": 49.8
+      "day": 48.5,
+      "week": 47.9,
+      "month": 48.0
     },
-    "mdd": -36.5,
-    "ma20": 183450,
-    "disparity20": 3.7,
-    "volume": 535153,
-    "vol_ratio": 176.2
+    "mdd": -40.5,
+    "ma20": 182950,
+    "disparity20": -2.6,
+    "volume": 411343,
+    "vol_ratio": 76.9
   },
   {
     "name": "현대모비스",
     "code": "012330",
     "sector": "KOSPI",
-    "price": 365500,
+    "price": 348000,
     "rsi": {
-      "day": 42.6,
-      "week": 39.5,
-      "month": 49.7
+      "day": 37.2,
+      "week": 36.9,
+      "month": 48.6
     },
-    "mdd": -55.4,
-    "ma20": 367900,
-    "disparity20": -0.7,
-    "volume": 253252,
-    "vol_ratio": 85.3
+    "mdd": -57.5,
+    "ma20": 366150,
+    "disparity20": -5.0,
+    "volume": 300548,
+    "vol_ratio": 129.4
   },
   {
     "name": "삼성물산",
     "code": "028260",
     "sector": "KOSPI",
-    "price": 285000,
+    "price": 275000,
     "rsi": {
-      "day": 31.7,
-      "week": 38.8,
-      "month": 53.3
+      "day": 29.3,
+      "week": 37.5,
+      "month": 52.3
     },
-    "mdd": -49.6,
-    "ma20": 331350,
-    "disparity20": -14.0,
-    "volume": 311467,
-    "vol_ratio": 53.0
+    "mdd": -51.3,
+    "ma20": 327425,
+    "disparity20": -16.0,
+    "volume": 304031,
+    "vol_ratio": 107.4
   },
   {
     "name": "KB금융",
     "code": "105560",
     "sector": "KOSPI",
-    "price": 162700,
+    "price": 160900,
     "rsi": {
-      "day": 43.1,
-      "week": 49.6,
-      "month": 68.0
+      "day": 40.9,
+      "week": 48.5,
+      "month": 66.8
     },
-    "mdd": -15.8,
-    "ma20": 168455,
-    "disparity20": -3.4,
-    "volume": 805213,
-    "vol_ratio": 91.5
+    "mdd": -16.7,
+    "ma20": 167665,
+    "disparity20": -4.0,
+    "volume": 1008768,
+    "vol_ratio": 148.7
   },
   {
     "name": "신한지주",
     "code": "055550",
     "sector": "KOSPI",
-    "price": 93300,
+    "price": 91800,
     "rsi": {
-      "day": 27.8,
-      "week": 42.6,
-      "month": 61.3
+      "day": 26.1,
+      "week": 41.4,
+      "month": 60.1
     },
-    "mdd": -19.9,
-    "ma20": 104505,
-    "disparity20": -10.7,
-    "volume": 1076148,
-    "vol_ratio": 82.1
+    "mdd": -21.2,
+    "ma20": 103490,
+    "disparity20": -11.3,
+    "volume": 938638,
+    "vol_ratio": 100.6
   },
   {
     "name": "LG전자",
     "code": "066570",
     "sector": "KOSPI",
-    "price": 170500,
+    "price": 163400,
     "rsi": {
-      "day": 35.0,
-      "week": 46.2,
-      "month": 55.1
+      "day": 32.2,
+      "week": 44.4,
+      "month": 54.1
     },
-    "mdd": -61.0,
-    "ma20": 199110,
-    "disparity20": -14.4,
-    "volume": 866868,
-    "vol_ratio": 128.1
+    "mdd": -62.6,
+    "ma20": 197280,
+    "disparity20": -17.2,
+    "volume": 700569,
+    "vol_ratio": 86.4
   },
   {
     "name": "LG",
     "code": "003550",
     "sector": "KOSPI",
-    "price": 105100,
+    "price": 102800,
     "rsi": {
-      "day": 41.5,
-      "week": 49.5,
-      "month": 55.6
+      "day": 38.2,
+      "week": 47.8,
+      "month": 54.8
     },
-    "mdd": -43.0,
-    "ma20": 109920,
-    "disparity20": -4.4,
-    "volume": 211370,
-    "vol_ratio": 80.7
+    "mdd": -44.2,
+    "ma20": 109450,
+    "disparity20": -6.1,
+    "volume": 191917,
+    "vol_ratio": 90.8
   },
   {
     "name": "SK",
     "code": "034730",
     "sector": "KOSPI",
-    "price": 457500,
+    "price": 428000,
     "rsi": {
-      "day": 31.7,
-      "week": 43.9,
-      "month": 55.7
+      "day": 28.0,
+      "week": 41.9,
+      "month": 54.0
     },
-    "mdd": -48.0,
-    "ma20": 546750,
-    "disparity20": -16.3,
-    "volume": 106273,
-    "vol_ratio": 67.7
+    "mdd": -51.4,
+    "ma20": 540600,
+    "disparity20": -20.8,
+    "volume": 121657,
+    "vol_ratio": 126.2
   },
   {
     "name": "한국전력",
     "code": "015760",
     "sector": "KOSPI",
-    "price": 29100,
+    "price": 28200,
     "rsi": {
-      "day": 39.7,
-      "week": 32.1,
-      "month": 43.5
+      "day": 34.7,
+      "week": 29.5,
+      "month": 42.6
     },
-    "mdd": -58.1,
-    "ma20": 29897,
-    "disparity20": -2.7,
-    "volume": 790915,
-    "vol_ratio": 85.1
+    "mdd": -59.4,
+    "ma20": 29765,
+    "disparity20": -5.3,
+    "volume": 958897,
+    "vol_ratio": 127.2
   },
   {
     "name": "삼성생명",
     "code": "032830",
     "sector": "KOSPI",
-    "price": 244500,
+    "price": 237000,
     "rsi": {
-      "day": 35.3,
-      "week": 41.7,
-      "month": 56.3
+      "day": 32.9,
+      "week": 40.2,
+      "month": 55.1
     },
-    "mdd": -52.7,
-    "ma20": 274075,
-    "disparity20": -10.8,
-    "volume": 322470,
-    "vol_ratio": 84.4
+    "mdd": -54.1,
+    "ma20": 271750,
+    "disparity20": -12.8,
+    "volume": 258103,
+    "vol_ratio": 86.8
   },
   {
     "name": "하나금융지주",
     "code": "086790",
     "sector": "KOSPI",
-    "price": 123700,
+    "price": 121800,
     "rsi": {
-      "day": 38.3,
-      "week": 49.3,
-      "month": 66.1
+      "day": 35.3,
+      "week": 47.8,
+      "month": 64.8
     },
-    "mdd": -12.9,
-    "ma20": 129550,
-    "disparity20": -4.5,
-    "volume": 658949,
-    "vol_ratio": 75.9
+    "mdd": -14.2,
+    "ma20": 128805,
+    "disparity20": -5.4,
+    "volume": 803888,
+    "vol_ratio": 138.4
   },
   {
     "name": "SK텔레콤",
     "code": "017670",
     "sector": "KOSPI",
-    "price": 78500,
+    "price": 77300,
     "rsi": {
-      "day": 32.4,
-      "week": 42.0,
-      "month": 56.0
+      "day": 30.6,
+      "week": 41.1,
+      "month": 55.1
     },
-    "mdd": -43.3,
-    "ma20": 84910,
-    "disparity20": -7.5,
-    "volume": 772598,
-    "vol_ratio": 118.7
+    "mdd": -44.1,
+    "ma20": 84370,
+    "disparity20": -8.4,
+    "volume": 703819,
+    "vol_ratio": 96.8
   },
   {
     "name": "삼성에스디에스",
     "code": "018260",
     "sector": "KOSPI",
-    "price": 203500,
+    "price": 198800,
     "rsi": {
-      "day": 43.0,
-      "week": 48.5,
-      "month": 53.9
+      "day": 40.0,
+      "week": 47.0,
+      "month": 53.2
     },
-    "mdd": -47.6,
-    "ma20": 211770,
-    "disparity20": -3.9,
-    "volume": 92294,
-    "vol_ratio": 74.3
+    "mdd": -48.8,
+    "ma20": 210835,
+    "disparity20": -5.7,
+    "volume": 126581,
+    "vol_ratio": 152.4
   },
   {
     "name": "삼성전기",
     "code": "009150",
     "sector": "KOSPI",
-    "price": 1170000,
+    "price": 1155000,
     "rsi": {
-      "day": 34.2,
-      "week": 46.8,
-      "month": 58.4
+      "day": 33.5,
+      "week": 46.5,
+      "month": 58.1
     },
-    "mdd": -51.6,
-    "ma20": 1438650,
-    "disparity20": -18.7,
-    "volume": 856321,
-    "vol_ratio": 118.8
+    "mdd": -52.2,
+    "ma20": 1427350,
+    "disparity20": -19.1,
+    "volume": 740952,
+    "vol_ratio": 86.5
   },
   {
     "name": "카카오뱅크",
     "code": "323410",
     "sector": "KOSPI",
-    "price": 20600,
+    "price": 20250,
     "rsi": {
-      "day": 51.9,
-      "week": 43.5,
-      "month": 45.1
+      "day": 46.7,
+      "week": 41.5,
+      "month": 44.0
     },
-    "mdd": -29.0,
-    "ma20": 20145,
-    "disparity20": 2.3,
-    "volume": 436227,
-    "vol_ratio": 52.1
+    "mdd": -30.2,
+    "ma20": 20117,
+    "disparity20": 0.7,
+    "volume": 449814,
+    "vol_ratio": 121.6
   },
   {
     "name": "HMM",
     "code": "011200",
     "sector": "KOSPI",
-    "price": 24000,
+    "price": 23450,
     "rsi": {
-      "day": 70.9,
-      "week": 66.0,
-      "month": 65.0
+      "day": 64.2,
+      "week": 63.8,
+      "month": 63.7
     },
-    "mdd": -3.8,
-    "ma20": 21615,
-    "disparity20": 11.0,
-    "volume": 4565242,
-    "vol_ratio": 194.6
+    "mdd": -6.0,
+    "ma20": 21770,
+    "disparity20": 7.7,
+    "volume": 1485252,
+    "vol_ratio": 32.5
   },
   {
     "name": "S-Oil",
     "code": "010950",
     "sector": "KOSPI",
-    "price": 156200,
+    "price": 144000,
     "rsi": {
-      "day": 50.0,
-      "week": 59.0,
-      "month": 75.3
+      "day": 41.6,
+      "week": 53.4,
+      "month": 68.6
     },
-    "mdd": -11.0,
-    "ma20": 158005,
-    "disparity20": -1.1,
-    "volume": 238361,
-    "vol_ratio": 56.3
+    "mdd": -18.0,
+    "ma20": 158000,
+    "disparity20": -8.9,
+    "volume": 644035,
+    "vol_ratio": 270.2
   },
   {
     "name": "삼성화재",
     "code": "000810",
     "sector": "KOSPI",
-    "price": 607000,
+    "price": 602000,
     "rsi": {
-      "day": 43.6,
-      "week": 49.7,
-      "month": 69.5
+      "day": 42.2,
+      "week": 49.0,
+      "month": 68.6
     },
-    "mdd": -19.8,
-    "ma20": 629650,
-    "disparity20": -3.6,
-    "volume": 65840,
-    "vol_ratio": 76.1
+    "mdd": -20.5,
+    "ma20": 626700,
+    "disparity20": -3.9,
+    "volume": 96524,
+    "vol_ratio": 146.6
   },
   {
     "name": "KT&G",
     "code": "033780",
     "sector": "KOSPI",
-    "price": 193100,
+    "price": 194000,
     "rsi": {
-      "day": 74.7,
-      "week": 65.7,
-      "month": 77.3
+      "day": 75.5,
+      "week": 66.2,
+      "month": 77.6
     },
-    "mdd": -1.2,
-    "ma20": 178650,
-    "disparity20": 8.1,
-    "volume": 293238,
-    "vol_ratio": 76.2
+    "mdd": -0.8,
+    "ma20": 179750,
+    "disparity20": 7.9,
+    "volume": 247904,
+    "vol_ratio": 92.0
   },
   {
     "name": "우리금융지주",
     "code": "316140",
     "sector": "KOSPI",
-    "price": 31650,
+    "price": 31800,
     "rsi": {
-      "day": 37.2,
-      "week": 47.8,
-      "month": 63.0
+      "day": 38.6,
+      "week": 48.2,
+      "month": 63.4
     },
-    "mdd": -21.2,
-    "ma20": 33957,
-    "disparity20": -6.8,
-    "volume": 1986605,
-    "vol_ratio": 89.1
+    "mdd": -20.8,
+    "ma20": 33732,
+    "disparity20": -5.7,
+    "volume": 2224690,
+    "vol_ratio": 126.4
   },
   {
     "name": "하이브",
     "code": "352820",
     "sector": "KOSPI",
-    "price": 188500,
+    "price": 184600,
     "rsi": {
-      "day": 67.1,
-      "week": 45.4,
-      "month": 43.2
+      "day": 63.0,
+      "week": 44.1,
+      "month": 42.7
     },
-    "mdd": -53.4,
-    "ma20": 163385,
-    "disparity20": 15.4,
-    "volume": 486787,
-    "vol_ratio": 87.5
+    "mdd": -54.4,
+    "ma20": 164120,
+    "disparity20": 12.5,
+    "volume": 341635,
+    "vol_ratio": 72.8
   },
   {
     "name": "삼성전자우",
     "code": "005935",
     "sector": "KOSPI",
-    "price": 170900,
+    "price": 165900,
     "rsi": {
-      "day": 39.9,
-      "week": 47.0,
-      "month": 64.9
+      "day": 37.7,
+      "week": 45.5,
+      "month": 63.3
     },
-    "mdd": -29.7,
-    "ma20": 192865,
-    "disparity20": -11.4,
-    "volume": 4165691,
-    "vol_ratio": 95.7
+    "mdd": -31.8,
+    "ma20": 191430,
+    "disparity20": -13.3,
+    "volume": 3211480,
+    "vol_ratio": 77.1
   },
   {
     "name": "고려아연",
     "code": "010130",
     "sector": "KOSPI",
-    "price": 999000,
+    "price": 916000,
     "rsi": {
-      "day": 37.8,
-      "week": 40.3,
-      "month": 46.6
+      "day": 30.0,
+      "week": 35.9,
+      "month": 44.8
     },
-    "mdd": -54.0,
-    "ma20": 1060550,
-    "disparity20": -5.8,
-    "volume": 15468,
-    "vol_ratio": 118.8
+    "mdd": -57.8,
+    "ma20": 1049650,
+    "disparity20": -12.7,
+    "volume": 20534,
+    "vol_ratio": 132.8
   },
   {
     "name": "롯데케미칼",
     "code": "011170",
     "sector": "KOSPI",
-    "price": 56900,
+    "price": 52900,
     "rsi": {
-      "day": 43.2,
-      "week": 41.8,
-      "month": 42.2
+      "day": 35.2,
+      "week": 37.9,
+      "month": 40.8
     },
-    "mdd": -52.0,
-    "ma20": 59960,
-    "disparity20": -5.1,
-    "volume": 109412,
-    "vol_ratio": 113.0
+    "mdd": -55.4,
+    "ma20": 59400,
+    "disparity20": -10.9,
+    "volume": 134518,
+    "vol_ratio": 122.9
   },
   {
     "name": "HD현대중공업",
     "code": "009540",
     "sector": "KOSPI",
-    "price": 271500,
+    "price": 254500,
     "rsi": {
-      "day": 27.8,
-      "week": 33.6,
-      "month": 44.7
+      "day": 23.5,
+      "week": 30.7,
+      "month": 43.2
     },
-    "mdd": -43.4,
-    "ma20": 310350,
-    "disparity20": -12.5,
-    "volume": 163282,
-    "vol_ratio": 84.3
+    "mdd": -47.0,
+    "ma20": 306450,
+    "disparity20": -17.0,
+    "volume": 191215,
+    "vol_ratio": 117.1
   },
   {
     "name": "크래프톤",
     "code": "259960",
     "sector": "KOSPI",
-    "price": 201000,
+    "price": 196700,
     "rsi": {
-      "day": 48.7,
-      "week": 38.6,
-      "month": 27.2
+      "day": 44.4,
+      "week": 36.2,
+      "month": 25.4
     },
-    "mdd": -33.8,
-    "ma20": 197655,
-    "disparity20": 1.7,
-    "volume": 85143,
-    "vol_ratio": 80.7
+    "mdd": -35.2,
+    "ma20": 197340,
+    "disparity20": -0.3,
+    "volume": 72044,
+    "vol_ratio": 93.2
   },
   {
     "name": "삼성중공업",
     "code": "010140",
     "sector": "KOSPI",
-    "price": 18300,
+    "price": 17320,
     "rsi": {
-      "day": 37.9,
-      "week": 31.6,
-      "month": 46.9
+      "day": 32.3,
+      "week": 29.2,
+      "month": 45.5
     },
-    "mdd": -48.2,
-    "ma20": 19552,
-    "disparity20": -6.4,
-    "volume": 3001367,
-    "vol_ratio": 84.9
+    "mdd": -51.0,
+    "ma20": 19408,
+    "disparity20": -10.8,
+    "volume": 3727846,
+    "vol_ratio": 124.2
   },
   {
     "name": "현대제철",
     "code": "004020",
     "sector": "KOSPI",
-    "price": 29100,
+    "price": 28000,
     "rsi": {
-      "day": 45.2,
-      "week": 45.3,
-      "month": 48.8
+      "day": 40.7,
+      "week": 43.3,
+      "month": 47.7
     },
-    "mdd": -42.0,
-    "ma20": 30705,
-    "disparity20": -5.2,
-    "volume": 508403,
-    "vol_ratio": 100.7
+    "mdd": -44.2,
+    "ma20": 30375,
+    "disparity20": -7.8,
+    "volume": 438573,
+    "vol_ratio": 86.3
   },
   {
     "name": "기업은행",
     "code": "024110",
     "sector": "KOSPI",
-    "price": 20200,
+    "price": 20000,
     "rsi": {
-      "day": 50.4,
-      "week": 47.1,
-      "month": 59.5
+      "day": 46.4,
+      "week": 45.5,
+      "month": 58.5
     },
-    "mdd": -27.7,
-    "ma20": 20116,
-    "disparity20": 0.4,
-    "volume": 639479,
-    "vol_ratio": 53.6
+    "mdd": -28.4,
+    "ma20": 20106,
+    "disparity20": -0.5,
+    "volume": 707637,
+    "vol_ratio": 123.3
   },
   {
     "name": "엔씨소프트",
     "code": "036570",
     "sector": "KOSPI",
-    "price": 218000,
+    "price": 220500,
     "rsi": {
-      "day": 50.9,
-      "week": 46.2,
-      "month": 49.6
+      "day": 52.2,
+      "week": 47.0,
+      "month": 50.2
     },
-    "mdd": -36.5,
-    "ma20": 214750,
-    "disparity20": 1.5,
-    "volume": 85035,
-    "vol_ratio": 66.9
+    "mdd": -35.8,
+    "ma20": 215725,
+    "disparity20": 2.2,
+    "volume": 98192,
+    "vol_ratio": 119.8
   },
   {
     "name": "LG이노텍",
     "code": "011070",
     "sector": "KOSPI",
-    "price": 422000,
+    "price": 407000,
     "rsi": {
-      "day": 35.7,
-      "week": 41.6,
-      "month": 50.4
+      "day": 34.2,
+      "week": 40.7,
+      "month": 50.0
     },
-    "mdd": -76.4,
-    "ma20": 522250,
-    "disparity20": -19.2,
-    "volume": 167156,
-    "vol_ratio": 115.2
+    "mdd": -77.2,
+    "ma20": 516850,
+    "disparity20": -21.3,
+    "volume": 125947,
+    "vol_ratio": 75.3
   },
   {
     "name": "CJ제일제당",
     "code": "097950",
     "sector": "KOSPI",
-    "price": 186300,
+    "price": 185100,
     "rsi": {
-      "day": 61.4,
-      "week": 46.1,
-      "month": 36.8
+      "day": 57.8,
+      "week": 45.4,
+      "month": 36.1
     },
-    "mdd": -24.9,
-    "ma20": 179780,
-    "disparity20": 3.6,
-    "volume": 47890,
-    "vol_ratio": 53.0
+    "mdd": -25.4,
+    "ma20": 180200,
+    "disparity20": 2.7,
+    "volume": 46258,
+    "vol_ratio": 100.9
   },
   {
     "name": "삼성엔지니어링",
     "code": "028050",
     "sector": "KOSPI",
-    "price": 45300,
+    "price": 43600,
     "rsi": {
-      "day": 43.5,
-      "week": 49.5,
-      "month": 67.4
+      "day": 39.0,
+      "week": 47.5,
+      "month": 64.5
     },
-    "mdd": -32.7,
-    "ma20": 47935,
-    "disparity20": -5.5,
-    "volume": 909735,
-    "vol_ratio": 85.8
+    "mdd": -35.2,
+    "ma20": 47590,
+    "disparity20": -8.4,
+    "volume": 897499,
+    "vol_ratio": 104.5
   },
   {
     "name": "유한양행",
     "code": "000100",
     "sector": "KOSPI",
-    "price": 87400,
+    "price": 86200,
     "rsi": {
-      "day": 71.2,
-      "week": 55.7,
-      "month": 41.2
+      "day": 67.9,
+      "week": 54.5,
+      "month": 40.4
     },
-    "mdd": -32.0,
-    "ma20": 75550,
-    "disparity20": 15.7,
-    "volume": 975643,
-    "vol_ratio": 237.0
+    "mdd": -32.9,
+    "ma20": 75995,
+    "disparity20": 13.4,
+    "volume": 490897,
+    "vol_ratio": 50.3
   },
   {
     "name": "LS",
     "code": "006260",
     "sector": "KOSPI",
-    "price": 232000,
+    "price": 219500,
     "rsi": {
-      "day": 29.0,
-      "week": 39.8,
-      "month": 50.2
+      "day": 26.2,
+      "week": 38.3,
+      "month": 49.0
     },
-    "mdd": -61.6,
-    "ma20": 285850,
-    "disparity20": -18.8,
-    "volume": 138365,
-    "vol_ratio": 89.4
+    "mdd": -63.7,
+    "ma20": 281650,
+    "disparity20": -22.1,
+    "volume": 157435,
+    "vol_ratio": 113.8
   },
   {
     "name": "한화에어로",
     "code": "012450",
     "sector": "KOSPI",
-    "price": 905000,
+    "price": 799000,
     "rsi": {
-      "day": 41.3,
-      "week": 41.4,
-      "month": 50.7
+      "day": 32.7,
+      "week": 37.1,
+      "month": 47.5
     },
-    "mdd": -45.3,
-    "ma20": 979000,
-    "disparity20": -7.6,
-    "volume": 145090,
-    "vol_ratio": 64.8
+    "mdd": -51.7,
+    "ma20": 966200,
+    "disparity20": -17.3,
+    "volume": 266510,
+    "vol_ratio": 183.7
   },
   {
     "name": "메리츠금융지주",
     "code": "138040",
     "sector": "KOSPI",
-    "price": 131000,
+    "price": 129300,
     "rsi": {
-      "day": 54.4,
-      "week": 58.7,
-      "month": 62.2
+      "day": 51.2,
+      "week": 57.3,
+      "month": 61.3
     },
-    "mdd": -12.6,
-    "ma20": 129180,
-    "disparity20": 1.4,
-    "volume": 148007,
-    "vol_ratio": 45.0
+    "mdd": -13.7,
+    "ma20": 129395,
+    "disparity20": -0.1,
+    "volume": 129319,
+    "vol_ratio": 96.6
   },
   {
     "name": "포스코인터내셔널",
     "code": "047050",
     "sector": "KOSPI",
-    "price": 57200,
+    "price": 55600,
     "rsi": {
-      "day": 53.6,
-      "week": 50.2,
-      "month": 52.6
+      "day": 49.1,
+      "week": 48.0,
+      "month": 51.4
     },
-    "mdd": -35.5,
-    "ma20": 56430,
-    "disparity20": 1.4,
-    "volume": 251152,
-    "vol_ratio": 80.4
+    "mdd": -37.3,
+    "ma20": 56470,
+    "disparity20": -1.5,
+    "volume": 400256,
+    "vol_ratio": 165.8
   },
   {
     "name": "CJ",
     "code": "001040",
     "sector": "KOSPI",
-    "price": 129200,
+    "price": 119900,
     "rsi": {
-      "day": 48.8,
-      "week": 40.7,
-      "month": 45.2
+      "day": 36.6,
+      "week": 36.2,
+      "month": 43.0
     },
-    "mdd": -44.9,
-    "ma20": 129970,
-    "disparity20": -0.6,
-    "volume": 99378,
-    "vol_ratio": 61.3
+    "mdd": -48.9,
+    "ma20": 129415,
+    "disparity20": -7.4,
+    "volume": 97154,
+    "vol_ratio": 97.8
   },
   {
     "name": "한온시스템",
     "code": "018880",
     "sector": "KOSPI",
-    "price": 3990,
+    "price": 3905,
     "rsi": {
-      "day": 61.3,
-      "week": 52.8,
-      "month": 51.2
+      "day": 57.8,
+      "week": 51.6,
+      "month": 50.6
     },
-    "mdd": -32.8,
-    "ma20": 3621,
-    "disparity20": 10.2,
-    "volume": 7423004,
-    "vol_ratio": 118.9
+    "mdd": -34.3,
+    "ma20": 3649,
+    "disparity20": 7.0,
+    "volume": 5750415,
+    "vol_ratio": 78.8
   },
   {
     "name": "CJ대한통운",
     "code": "000120",
     "sector": "KOSPI",
-    "price": 71800,
+    "price": 68500,
     "rsi": {
-      "day": 53.8,
-      "week": 39.1,
-      "month": 41.1
+      "day": 40.9,
+      "week": 34.1,
+      "month": 39.0
     },
-    "mdd": -53.0,
-    "ma20": 70320,
-    "disparity20": 2.1,
-    "volume": 51698,
-    "vol_ratio": 93.0
+    "mdd": -55.2,
+    "ma20": 70195,
+    "disparity20": -2.4,
+    "volume": 76458,
+    "vol_ratio": 147.9
   },
   {
     "name": "삼성증권",
     "code": "016360",
     "sector": "KOSPI",
-    "price": 80300,
+    "price": 78300,
     "rsi": {
-      "day": 37.6,
-      "week": 38.5,
-      "month": 52.1
+      "day": 34.4,
+      "week": 36.8,
+      "month": 51.0
     },
-    "mdd": -50.7,
-    "ma20": 85800,
-    "disparity20": -6.4,
-    "volume": 208034,
-    "vol_ratio": 80.6
+    "mdd": -52.0,
+    "ma20": 85435,
+    "disparity20": -8.4,
+    "volume": 257537,
+    "vol_ratio": 129.9
   },
   {
     "name": "하이트진로",
     "code": "000080",
     "sector": "KOSPI",
-    "price": 15980,
+    "price": 16060,
     "rsi": {
-      "day": 71.3,
-      "week": 51.9,
-      "month": 37.8
+      "day": 72.5,
+      "week": 52.7,
+      "month": 38.5
     },
-    "mdd": -17.2,
-    "ma20": 15081,
-    "disparity20": 6.0,
-    "volume": 117162,
-    "vol_ratio": 54.4
+    "mdd": -16.8,
+    "ma20": 15130,
+    "disparity20": 6.1,
+    "volume": 115885,
+    "vol_ratio": 98.9
   },
   {
     "name": "호텔신라",
     "code": "008770",
     "sector": "KOSPI",
-    "price": 38350,
+    "price": 37400,
     "rsi": {
-      "day": 40.6,
-      "week": 35.7,
-      "month": 42.4
+      "day": 35.9,
+      "week": 33.2,
+      "month": 41.6
     },
-    "mdd": -45.4,
-    "ma20": 39220,
-    "disparity20": -2.2,
-    "volume": 94237,
-    "vol_ratio": 52.5
+    "mdd": -46.8,
+    "ma20": 39062,
+    "disparity20": -4.3,
+    "volume": 143814,
+    "vol_ratio": 152.6
   },
   {
     "name": "한진칼",
     "code": "180640",
     "sector": "KOSPI",
-    "price": 122000,
+    "price": 119000,
     "rsi": {
-      "day": 39.4,
-      "week": 48.5,
-      "month": 54.3
+      "day": 36.8,
+      "week": 46.9,
+      "month": 53.3
     },
-    "mdd": -30.4,
-    "ma20": 133080,
-    "disparity20": -8.3,
-    "volume": 82812,
-    "vol_ratio": 82.6
+    "mdd": -32.1,
+    "ma20": 132250,
+    "disparity20": -10.0,
+    "volume": 48167,
+    "vol_ratio": 61.6
   },
   {
     "name": "한솔케미칼",
     "code": "014680",
     "sector": "KOSPI",
-    "price": 235500,
+    "price": 226000,
     "rsi": {
-      "day": 47.9,
-      "week": 48.5,
-      "month": 54.2
+      "day": 43.0,
+      "week": 46.3,
+      "month": 52.8
     },
-    "mdd": -31.4,
-    "ma20": 245375,
-    "disparity20": -4.0,
-    "volume": 41547,
-    "vol_ratio": 66.5
+    "mdd": -34.2,
+    "ma20": 245950,
+    "disparity20": -8.1,
+    "volume": 32563,
+    "vol_ratio": 81.2
   },
   {
     "name": "GS",
     "code": "078930",
     "sector": "KOSPI",
-    "price": 93800,
+    "price": 89000,
     "rsi": {
-      "day": 33.4,
-      "week": 49.9,
-      "month": 62.2
+      "day": 29.4,
+      "week": 46.9,
+      "month": 59.9
     },
-    "mdd": -29.6,
-    "ma20": 105725,
-    "disparity20": -11.3,
-    "volume": 232566,
-    "vol_ratio": 77.6
+    "mdd": -33.2,
+    "ma20": 104575,
+    "disparity20": -14.9,
+    "volume": 409601,
+    "vol_ratio": 187.7
   },
   {
     "name": "GS리테일",
     "code": "007070",
     "sector": "KOSPI",
-    "price": 21200,
+    "price": 21750,
     "rsi": {
-      "day": 32.6,
-      "week": 41.7,
-      "month": 48.4
+      "day": 40.1,
+      "week": 43.7,
+      "month": 49.8
     },
-    "mdd": -29.2,
-    "ma20": 22275,
-    "disparity20": -4.8,
-    "volume": 175676,
-    "vol_ratio": 168.6
+    "mdd": -27.4,
+    "ma20": 22160,
+    "disparity20": -1.9,
+    "volume": 192155,
+    "vol_ratio": 109.4
   },
   {
     "name": "한화솔루션",
     "code": "009900",
     "sector": "KOSPI",
-    "price": 9720,
+    "price": 8650,
     "rsi": {
-      "day": 66.7,
-      "week": 58.5,
-      "month": 50.0
+      "day": 52.9,
+      "week": 51.4,
+      "month": 46.2
     },
-    "mdd": -34.9,
-    "ma20": 8376,
-    "disparity20": 16.0,
-    "volume": 4629364,
-    "vol_ratio": 344.2
+    "mdd": -42.1,
+    "ma20": 8415,
+    "disparity20": 2.8,
+    "volume": 2216911,
+    "vol_ratio": 47.9
   },
   {
     "name": "일진머티리얼즈",
     "code": "020150",
     "sector": "KOSPI",
-    "price": 58500,
+    "price": 56500,
     "rsi": {
-      "day": 67.0,
-      "week": 62.4,
-      "month": 60.3
+      "day": 63.3,
+      "week": 61.2,
+      "month": 59.6
     },
-    "mdd": -29.6,
-    "ma20": 47380,
-    "disparity20": 23.5,
-    "volume": 963714,
-    "vol_ratio": 216.5
+    "mdd": -32.0,
+    "ma20": 48260,
+    "disparity20": 17.1,
+    "volume": 529627,
+    "vol_ratio": 55.7
   },
   {
     "name": "현대해상",
     "code": "001450",
     "sector": "KOSPI",
-    "price": 43950,
+    "price": 43200,
     "rsi": {
-      "day": 40.3,
-      "week": 54.1,
-      "month": 65.2
+      "day": 38.3,
+      "week": 52.8,
+      "month": 63.9
     },
-    "mdd": -19.7,
-    "ma20": 47115,
-    "disparity20": -6.7,
-    "volume": 162638,
-    "vol_ratio": 51.2
+    "mdd": -21.0,
+    "ma20": 46850,
+    "disparity20": -7.8,
+    "volume": 243743,
+    "vol_ratio": 149.9
   },
   {
     "name": "현대건설",
     "code": "000720",
     "sector": "KOSPI",
-    "price": 94900,
+    "price": 91500,
     "rsi": {
-      "day": 32.3,
-      "week": 41.6,
-      "month": 52.2
+      "day": 30.0,
+      "week": 40.5,
+      "month": 51.3
     },
-    "mdd": -52.2,
-    "ma20": 112585,
-    "disparity20": -15.7,
-    "volume": 491427,
-    "vol_ratio": 106.2
+    "mdd": -53.9,
+    "ma20": 110945,
+    "disparity20": -17.5,
+    "volume": 402712,
+    "vol_ratio": 81.9
   },
   {
     "name": "NH투자증권",
     "code": "005940",
     "sector": "KOSPI",
-    "price": 24650,
+    "price": 24200,
     "rsi": {
-      "day": 41.3,
-      "week": 40.6,
-      "month": 55.5
+      "day": 38.2,
+      "week": 39.3,
+      "month": 54.5
     },
-    "mdd": -39.9,
-    "ma20": 25502,
-    "disparity20": -3.3,
-    "volume": 413968,
-    "vol_ratio": 71.4
+    "mdd": -41.0,
+    "ma20": 25442,
+    "disparity20": -4.9,
+    "volume": 336150,
+    "vol_ratio": 81.2
   },
   {
     "name": "오리온",
     "code": "001800",
     "sector": "KOSPI",
-    "price": 22900,
+    "price": 23350,
     "rsi": {
-      "day": 37.2,
-      "week": 44.2,
-      "month": 59.9
+      "day": 45.8,
+      "week": 46.4,
+      "month": 61.7
     },
-    "mdd": -21.9,
-    "ma20": 23305,
-    "disparity20": -1.7,
-    "volume": 30072,
-    "vol_ratio": 60.0
+    "mdd": -20.4,
+    "ma20": 23252,
+    "disparity20": 0.4,
+    "volume": 60685,
+    "vol_ratio": 201.8
   },
   {
     "name": "한국타이어앤테크놀로지",
     "code": "161390",
     "sector": "KOSPI",
-    "price": 64600,
+    "price": 62600,
     "rsi": {
-      "day": 60.3,
-      "week": 52.0,
-      "month": 61.1
+      "day": 52.0,
+      "week": 49.3,
+      "month": 59.8
     },
-    "mdd": -15.6,
-    "ma20": 60395,
-    "disparity20": 7.0,
-    "volume": 220057,
-    "vol_ratio": 70.7
+    "mdd": -18.2,
+    "ma20": 60635,
+    "disparity20": 3.2,
+    "volume": 288316,
+    "vol_ratio": 146.7
   },
   {
     "name": "한미약품",
     "code": "008930",
     "sector": "KOSPI",
-    "price": 45550,
+    "price": 44050,
     "rsi": {
-      "day": 41.4,
-      "week": 53.2,
-      "month": 54.8
+      "day": 39.2,
+      "week": 51.1,
+      "month": 53.4
     },
-    "mdd": -28.6,
-    "ma20": 51237,
-    "disparity20": -11.1,
-    "volume": 480381,
-    "vol_ratio": 180.4
+    "mdd": -31.0,
+    "ma20": 50885,
+    "disparity20": -13.4,
+    "volume": 218651,
+    "vol_ratio": 45.5
   },
   {
     "name": "롯데정밀화학",
     "code": "004000",
     "sector": "KOSPI",
-    "price": 41100,
+    "price": 38900,
     "rsi": {
-      "day": 34.3,
-      "week": 41.0,
-      "month": 46.3
+      "day": 25.8,
+      "week": 37.5,
+      "month": 44.5
     },
-    "mdd": -42.8,
-    "ma20": 42832,
-    "disparity20": -4.0,
-    "volume": 41190,
-    "vol_ratio": 130.8
+    "mdd": -45.8,
+    "ma20": 42515,
+    "disparity20": -8.5,
+    "volume": 55716,
+    "vol_ratio": 135.3
   },
   {
     "name": "에코프로",
     "code": "086520",
     "sector": "KOSDAQ",
-    "price": 90400,
+    "price": 83400,
     "rsi": {
-      "day": 55.7,
-      "week": 46.5,
-      "month": 49.3
+      "day": 48.1,
+      "week": 42.6,
+      "month": 47.5
     },
-    "mdd": -52.4,
-    "ma20": 84500,
-    "disparity20": 7.0,
-    "volume": 1109075,
-    "vol_ratio": 149.6
+    "mdd": -56.1,
+    "ma20": 84560,
+    "disparity20": -1.4,
+    "volume": 961185,
+    "vol_ratio": 86.7
   },
   {
     "name": "에코프로비엠",
     "code": "247540",
     "sector": "KOSDAQ",
-    "price": 115800,
+    "price": 105200,
     "rsi": {
-      "day": 52.2,
-      "week": 44.2,
-      "month": 43.4
+      "day": 45.1,
+      "week": 40.3,
+      "month": 41.3
     },
-    "mdd": -55.4,
-    "ma20": 111870,
-    "disparity20": 3.5,
-    "volume": 470789,
-    "vol_ratio": 116.3
+    "mdd": -59.5,
+    "ma20": 111925,
+    "disparity20": -6.0,
+    "volume": 496873,
+    "vol_ratio": 105.5
   },
   {
     "name": "카카오게임즈",
     "code": "293490",
     "sector": "KOSDAQ",
-    "price": 10300,
+    "price": 10180,
     "rsi": {
-      "day": 60.0,
-      "week": 52.6,
-      "month": 38.3
+      "day": 58.1,
+      "week": 51.8,
+      "month": 37.8
     },
-    "mdd": -44.1,
-    "ma20": 9614,
-    "disparity20": 7.1,
-    "volume": 300007,
-    "vol_ratio": 27.1
+    "mdd": -44.8,
+    "ma20": 9648,
+    "disparity20": 5.5,
+    "volume": 315926,
+    "vol_ratio": 105.3
   },
   {
     "name": "JYP Ent.",
     "code": "035900",
     "sector": "KOSDAQ",
-    "price": 40400,
+    "price": 39600,
     "rsi": {
-      "day": 59.0,
-      "week": 37.5,
-      "month": 35.5
+      "day": 54.0,
+      "week": 35.6,
+      "month": 34.7
     },
-    "mdd": -53.7,
-    "ma20": 38182,
-    "disparity20": 5.8,
-    "volume": 258737,
-    "vol_ratio": 86.0
+    "mdd": -54.6,
+    "ma20": 38227,
+    "disparity20": 3.6,
+    "volume": 178907,
+    "vol_ratio": 69.1
   },
   {
     "name": "스튜디오드래곤",
     "code": "253450",
     "sector": "KOSDAQ",
-    "price": 23550,
+    "price": 23850,
     "rsi": {
-      "day": 70.4,
-      "week": 44.7,
-      "month": 35.5
+      "day": 72.0,
+      "week": 45.6,
+      "month": 35.9
     },
-    "mdd": -53.4,
-    "ma20": 21032,
-    "disparity20": 12.0,
-    "volume": 72890,
-    "vol_ratio": 38.1
+    "mdd": -52.8,
+    "ma20": 21147,
+    "disparity20": 12.8,
+    "volume": 76207,
+    "vol_ratio": 104.6
   },
   {
     "name": "디오",
     "code": "039840",
     "sector": "KOSDAQ",
-    "price": 9790,
+    "price": 10300,
     "rsi": {
-      "day": 47.0,
-      "week": 32.6,
-      "month": 29.1
+      "day": 53.3,
+      "week": 36.9,
+      "month": 31.7
     },
-    "mdd": -49.5,
-    "ma20": 9672,
-    "disparity20": 1.2,
-    "volume": 109079,
-    "vol_ratio": 184.6
+    "mdd": -46.9,
+    "ma20": 9681,
+    "disparity20": 6.4,
+    "volume": 166315,
+    "vol_ratio": 152.5
   },
   {
     "name": "휴젤",
     "code": "145020",
     "sector": "KOSDAQ",
-    "price": 187000,
+    "price": 184200,
     "rsi": {
-      "day": 41.8,
-      "week": 36.4,
-      "month": 37.6
+      "day": 40.0,
+      "week": 35.3,
+      "month": 37.1
     },
-    "mdd": -39.4,
-    "ma20": 188730,
-    "disparity20": -0.9,
-    "volume": 40346,
-    "vol_ratio": 57.9
+    "mdd": -40.3,
+    "ma20": 186390,
+    "disparity20": -1.2,
+    "volume": 50372,
+    "vol_ratio": 124.9
   },
   {
     "name": "동화기업",
     "code": "025900",
     "sector": "KOSDAQ",
-    "price": 7060,
+    "price": 6640,
     "rsi": {
-      "day": 51.0,
-      "week": 46.1,
-      "month": 42.1
+      "day": 44.6,
+      "week": 42.9,
+      "month": 40.8
     },
-    "mdd": -45.6,
-    "ma20": 6972,
-    "disparity20": 1.3,
-    "volume": 87503,
-    "vol_ratio": 138.5
+    "mdd": -48.8,
+    "ma20": 6956,
+    "disparity20": -4.5,
+    "volume": 48527,
+    "vol_ratio": 55.5
   },
   {
     "name": "리노공업",
     "code": "058470",
     "sector": "KOSDAQ",
-    "price": 69400,
+    "price": 67500,
     "rsi": {
-      "day": 44.4,
-      "week": 43.5,
-      "month": 51.8
+      "day": 42.4,
+      "week": 42.5,
+      "month": 51.0
     },
-    "mdd": -46.2,
-    "ma20": 75295,
-    "disparity20": -7.8,
-    "volume": 765508,
-    "vol_ratio": 113.9
+    "mdd": -47.7,
+    "ma20": 75375,
+    "disparity20": -10.4,
+    "volume": 608948,
+    "vol_ratio": 79.5
   },
   {
     "name": "메디톡스",
     "code": "086900",
     "sector": "KOSDAQ",
-    "price": 70000,
+    "price": 69800,
     "rsi": {
-      "day": 56.8,
-      "week": 36.9,
-      "month": 28.5
+      "day": 56.1,
+      "week": 36.5,
+      "month": 28.4
     },
-    "mdd": -50.4,
-    "ma20": 66935,
-    "disparity20": 4.6,
-    "volume": 15387,
-    "vol_ratio": 63.4
+    "mdd": -50.5,
+    "ma20": 67035,
+    "disparity20": 4.1,
+    "volume": 11627,
+    "vol_ratio": 75.6
   },
   {
     "name": "클래시스",
     "code": "214150",
     "sector": "KOSDAQ",
-    "price": 29950,
+    "price": 29750,
     "rsi": {
-      "day": 45.6,
-      "week": 34.2,
-      "month": 36.4
+      "day": 44.7,
+      "week": 33.8,
+      "month": 36.3
     },
-    "mdd": -61.4,
-    "ma20": 30147,
-    "disparity20": -0.7,
-    "volume": 233081,
-    "vol_ratio": 96.4
+    "mdd": -61.7,
+    "ma20": 30035,
+    "disparity20": -0.9,
+    "volume": 179912,
+    "vol_ratio": 77.2
   },
   {
     "name": "솔브레인",
     "code": "036830",
     "sector": "KOSDAQ",
-    "price": 43550,
+    "price": 40500,
     "rsi": {
-      "day": 49.8,
-      "week": 50.2,
-      "month": 49.7
+      "day": 44.1,
+      "week": 46.9,
+      "month": 48.1
     },
-    "mdd": -46.1,
-    "ma20": 43792,
-    "disparity20": -0.6,
-    "volume": 68988,
-    "vol_ratio": 86.3
+    "mdd": -49.9,
+    "ma20": 43762,
+    "disparity20": -7.5,
+    "volume": 48867,
+    "vol_ratio": 70.8
   },
   {
     "name": "위메이드",
     "code": "112040",
     "sector": "KOSDAQ",
-    "price": 14490,
+    "price": 14450,
     "rsi": {
-      "day": 42.8,
-      "week": 37.6,
-      "month": 32.7
+      "day": 42.5,
+      "week": 37.4,
+      "month": 32.6
     },
-    "mdd": -58.4,
-    "ma20": 15124,
-    "disparity20": -4.2,
-    "volume": 61966,
-    "vol_ratio": 49.9
+    "mdd": -58.5,
+    "ma20": 15094,
+    "disparity20": -4.3,
+    "volume": 93245,
+    "vol_ratio": 150.5
   },
   {
     "name": "효성티앤씨",
     "code": "298020",
     "sector": "KOSDAQ",
-    "price": 270500,
+    "price": 276000,
     "rsi": {
-      "day": 35.5,
-      "week": 39.8,
-      "month": 47.9
+      "day": 39.2,
+      "week": 41.1,
+      "month": 48.3
     },
-    "mdd": -51.4,
-    "ma20": 293950,
-    "disparity20": -8.0,
-    "volume": 10959,
-    "vol_ratio": 78.5
+    "mdd": -50.4,
+    "ma20": 291500,
+    "disparity20": -5.3,
+    "volume": 9414,
+    "vol_ratio": 85.9
   },
   {
     "name": "천보",
     "code": "393890",
     "sector": "KOSDAQ",
-    "price": 10570,
+    "price": 9650,
     "rsi": {
-      "day": 52.7,
-      "week": 50.4,
-      "month": 48.4
+      "day": 46.8,
+      "week": 46.6,
+      "month": 46.6
     },
-    "mdd": -50.5,
-    "ma20": 10331,
-    "disparity20": 2.3,
-    "volume": 692782,
-    "vol_ratio": 123.4
+    "mdd": -54.8,
+    "ma20": 10329,
+    "disparity20": -6.6,
+    "volume": 519090,
+    "vol_ratio": 74.9
   },
   {
     "name": "영원무역홀딩스",
     "code": "060230",
     "sector": "KOSDAQ",
-    "price": 1205,
+    "price": 1171,
     "rsi": {
-      "day": 48.0,
-      "week": 40.9,
-      "month": 23.0
+      "day": 45.9,
+      "week": 40.0,
+      "month": 22.8
     },
-    "mdd": -78.2,
-    "ma20": 1229,
-    "disparity20": -2.0,
-    "volume": 74087,
-    "vol_ratio": 192.5
+    "mdd": -78.8,
+    "ma20": 1231,
+    "disparity20": -4.9,
+    "volume": 60219,
+    "vol_ratio": 81.3
   },
   {
     "name": "코미팜",
     "code": "041960",
     "sector": "KOSDAQ",
-    "price": 9930,
+    "price": 9810,
     "rsi": {
-      "day": 47.0,
-      "week": 56.7,
-      "month": 68.3
+      "day": 45.7,
+      "week": 55.8,
+      "month": 67.8
     },
-    "mdd": -16.5,
-    "ma20": 10302,
-    "disparity20": -3.6,
-    "volume": 553430,
-    "vol_ratio": 269.6
+    "mdd": -17.5,
+    "ma20": 10300,
+    "disparity20": -4.8,
+    "volume": 240622,
+    "vol_ratio": 43.5
   },
   {
     "name": "서울반도체",
     "code": "046890",
     "sector": "KOSDAQ",
-    "price": 8670,
+    "price": 8440,
     "rsi": {
-      "day": 34.9,
-      "week": 42.6,
-      "month": 48.8
+      "day": 32.8,
+      "week": 41.4,
+      "month": 48.3
     },
-    "mdd": -54.3,
-    "ma20": 9973,
-    "disparity20": -13.1,
-    "volume": 124816,
-    "vol_ratio": 83.4
+    "mdd": -55.5,
+    "ma20": 9895,
+    "disparity20": -14.7,
+    "volume": 137733,
+    "vol_ratio": 110.3
   },
   {
     "name": "테스나",
     "code": "131970",
     "sector": "KOSDAQ",
-    "price": 110000,
+    "price": 102400,
     "rsi": {
-      "day": 54.1,
-      "week": 54.2,
-      "month": 61.2
+      "day": 49.1,
+      "week": 51.7,
+      "month": 59.7
     },
-    "mdd": -44.1,
-    "ma20": 105275,
-    "disparity20": 4.5,
-    "volume": 540517,
-    "vol_ratio": 74.6
+    "mdd": -48.0,
+    "ma20": 106470,
+    "disparity20": -3.8,
+    "volume": 338847,
+    "vol_ratio": 62.7
   },
   {
     "name": "오스템임플란트",
     "code": "039200",
     "sector": "KOSDAQ",
-    "price": 38300,
+    "price": 37500,
     "rsi": {
-      "day": 56.4,
-      "week": 49.4,
-      "month": 50.4
+      "day": 53.5,
+      "week": 47.7,
+      "month": 49.8
     },
-    "mdd": -42.0,
-    "ma20": 36565,
-    "disparity20": 4.7,
-    "volume": 199756,
-    "vol_ratio": 95.6
+    "mdd": -43.2,
+    "ma20": 36722,
+    "disparity20": 2.1,
+    "volume": 279423,
+    "vol_ratio": 139.9
   },
   {
     "name": "아프리카TV",
     "code": "067160",
     "sector": "KOSDAQ",
-    "price": 40100,
+    "price": 39650,
     "rsi": {
-      "day": 64.4,
-      "week": 36.0,
-      "month": 28.2
+      "day": 60.6,
+      "week": 34.5,
+      "month": 27.6
     },
-    "mdd": -47.9,
-    "ma20": 37265,
-    "disparity20": 7.6,
-    "volume": 55087,
-    "vol_ratio": 105.1
+    "mdd": -48.5,
+    "ma20": 37405,
+    "disparity20": 6.0,
+    "volume": 46688,
+    "vol_ratio": 84.8
   },
   {
     "name": "예스티",
     "code": "122640",
     "sector": "KOSDAQ",
-    "price": 26750,
+    "price": 28250,
     "rsi": {
-      "day": 40.8,
-      "week": 48.3,
-      "month": 54.4
+      "day": 45.8,
+      "week": 50.5,
+      "month": 56.0
     },
-    "mdd": -39.2,
-    "ma20": 30785,
-    "disparity20": -13.1,
-    "volume": 364795,
-    "vol_ratio": 109.1
+    "mdd": -35.8,
+    "ma20": 30760,
+    "disparity20": -8.2,
+    "volume": 416896,
+    "vol_ratio": 114.3
   },
   {
     "name": "애플",
     "code": "AAPL",
     "sector": "US (미국)",
-    "price": 345.6,
+    "price": 342.94,
     "rsi": {
-      "day": 64.2,
-      "week": 66.6,
-      "month": 73.5
+      "day": 61.2,
+      "week": 65.6,
+      "month": 73.1
     },
-    "mdd": -0.7,
-    "ma20": 337.75,
-    "disparity20": 2.3,
-    "volume": 7239317,
-    "vol_ratio": 12.1
+    "mdd": -1.5,
+    "ma20": 337.62,
+    "disparity20": 1.6,
+    "volume": 34547800,
+    "vol_ratio": 57.6
   },
   {
     "name": "마이크로소프트",
     "code": "MSFT",
     "sector": "US (미국)",
-    "price": 533.53,
+    "price": 533.52,
     "rsi": {
       "day": 59.6,
       "week": 66.5,
@@ -1484,775 +1484,775 @@
     "mdd": -3.2,
     "ma20": 521.82,
     "disparity20": 2.2,
-    "volume": 3277827,
-    "vol_ratio": 13.2
+    "volume": 17984300,
+    "vol_ratio": 72.4
   },
   {
     "name": "엔비디아",
     "code": "NVDA",
     "sector": "US (미국)",
-    "price": 217.34,
+    "price": 217.09,
     "rsi": {
-      "day": 41.8,
-      "week": 52.6,
-      "month": 65.0
+      "day": 41.5,
+      "week": 52.5,
+      "month": 64.9
     },
-    "mdd": -10.7,
-    "ma20": 227.68,
-    "disparity20": -4.5,
-    "volume": 23097395,
-    "vol_ratio": 19.1
+    "mdd": -10.8,
+    "ma20": 227.66,
+    "disparity20": -4.6,
+    "volume": 98403300,
+    "vol_ratio": 81.2
   },
   {
     "name": "알파벳A",
     "code": "GOOGL",
     "sector": "US (미국)",
-    "price": 345.81,
+    "price": 344.18,
     "rsi": {
-      "day": 49.7,
-      "week": 51.5,
-      "month": 65.7
+      "day": 48.1,
+      "week": 50.9,
+      "month": 65.4
     },
-    "mdd": -15.3,
-    "ma20": 345.96,
-    "disparity20": -0.0,
-    "volume": 4589308,
-    "vol_ratio": 16.1
+    "mdd": -15.7,
+    "ma20": 345.87,
+    "disparity20": -0.5,
+    "volume": 19793800,
+    "vol_ratio": 69.1
   },
   {
     "name": "아마존",
     "code": "AMZN",
     "sector": "US (미국)",
-    "price": 259.55,
+    "price": 262.45,
     "rsi": {
-      "day": 54.9,
-      "week": 53.8,
-      "month": 57.8
+      "day": 57.3,
+      "week": 54.9,
+      "month": 58.4
     },
-    "mdd": -9.6,
-    "ma20": 253.28,
-    "disparity20": 2.5,
-    "volume": 9771303,
-    "vol_ratio": 24.2
+    "mdd": -8.6,
+    "ma20": 253.43,
+    "disparity20": 3.6,
+    "volume": 56068100,
+    "vol_ratio": 138.7
   },
   {
     "name": "메타",
     "code": "META",
     "sector": "US (미국)",
-    "price": 697.01,
+    "price": 705.44,
     "rsi": {
-      "day": 47.2,
-      "week": 56.7,
-      "month": 56.3
+      "day": 49.3,
+      "week": 57.9,
+      "month": 57.2
     },
-    "mdd": -10.6,
-    "ma20": 733.56,
-    "disparity20": -5.0,
-    "volume": 4152600,
-    "vol_ratio": 20.2
+    "mdd": -9.5,
+    "ma20": 733.98,
+    "disparity20": -3.9,
+    "volume": 16235800,
+    "vol_ratio": 78.6
   },
   {
     "name": "테슬라",
     "code": "TSLA",
     "sector": "US (미국)",
-    "price": 364.89,
+    "price": 368.06,
     "rsi": {
-      "day": 48.8,
-      "week": 48.1,
-      "month": 51.1
+      "day": 50.6,
+      "week": 48.8,
+      "month": 51.5
     },
-    "mdd": -26.8,
-    "ma20": 369.81,
-    "disparity20": -1.3,
-    "volume": 10802764,
-    "vol_ratio": 17.5
+    "mdd": -26.2,
+    "ma20": 369.97,
+    "disparity20": -0.5,
+    "volume": 38741900,
+    "vol_ratio": 62.4
   },
   {
     "name": "버크셔해서웨이",
     "code": "BRK-B",
     "sector": "US (미국)",
-    "price": 531.96,
+    "price": 532.23,
     "rsi": {
-      "day": 74.9,
-      "week": 64.7,
-      "month": 60.7
+      "day": 75.1,
+      "week": 64.8,
+      "month": 60.8
     },
-    "mdd": -1.1,
-    "ma20": 511.24,
+    "mdd": -1.0,
+    "ma20": 511.25,
     "disparity20": 4.1,
-    "volume": 531817,
-    "vol_ratio": 13.0
+    "volume": 4784100,
+    "vol_ratio": 117.3
   },
   {
     "name": "브로드컴",
     "code": "AVGO",
     "sector": "US (미국)",
-    "price": 336.36,
+    "price": 334.59,
     "rsi": {
-      "day": 39.9,
-      "week": 43.0,
-      "month": 54.5
+      "day": 38.8,
+      "week": 42.6,
+      "month": 54.2
     },
-    "mdd": -31.8,
-    "ma20": 354.08,
-    "disparity20": -5.0,
-    "volume": 3297382,
-    "vol_ratio": 11.1
+    "mdd": -32.2,
+    "ma20": 353.99,
+    "disparity20": -5.5,
+    "volume": 17402800,
+    "vol_ratio": 58.3
   },
   {
     "name": "TSMC",
     "code": "TSM",
     "sector": "US (미국)",
-    "price": 421.42,
+    "price": 420.22,
     "rsi": {
-      "day": 39.8,
-      "week": 52.4,
-      "month": 64.8
+      "day": 39.1,
+      "week": 52.1,
+      "month": 64.6
     },
-    "mdd": -13.5,
-    "ma20": 451.28,
-    "disparity20": -6.6,
-    "volume": 2951597,
-    "vol_ratio": 17.7
+    "mdd": -13.8,
+    "ma20": 451.22,
+    "disparity20": -6.9,
+    "volume": 12337500,
+    "vol_ratio": 74.0
   },
   {
     "name": "일라이릴리",
     "code": "LLY",
     "sector": "US (미국)",
-    "price": 1256.2,
+    "price": 1240.34,
     "rsi": {
-      "day": 68.3,
-      "week": 62.1,
-      "month": 69.4
+      "day": 63.4,
+      "week": 60.3,
+      "month": 68.8
     },
-    "mdd": -2.8,
-    "ma20": 1183.33,
-    "disparity20": 6.2,
-    "volume": 321318,
-    "vol_ratio": 13.3
+    "mdd": -4.0,
+    "ma20": 1182.54,
+    "disparity20": 4.9,
+    "volume": 1959500,
+    "vol_ratio": 81.2
   },
   {
     "name": "월마트",
     "code": "WMT",
     "sector": "US (미국)",
-    "price": 118.8,
+    "price": 118.7,
     "rsi": {
-      "day": 73.0,
-      "week": 56.7,
-      "month": 61.1
+      "day": 72.6,
+      "week": 56.6,
+      "month": 61.0
     },
-    "mdd": -11.9,
-    "ma20": 110.18,
-    "disparity20": 7.8,
-    "volume": 3204957,
-    "vol_ratio": 15.5
+    "mdd": -12.0,
+    "ma20": 110.17,
+    "disparity20": 7.7,
+    "volume": 16259400,
+    "vol_ratio": 78.8
   },
   {
     "name": "JP모건",
     "code": "JPM",
     "sector": "US (미국)",
-    "price": 338.18,
+    "price": 333.53,
     "rsi": {
-      "day": 50.0,
-      "week": 53.4,
-      "month": 65.7
+      "day": 44.0,
+      "week": 50.6,
+      "month": 64.7
     },
-    "mdd": -7.3,
-    "ma20": 334.13,
-    "disparity20": 1.2,
-    "volume": 889762,
-    "vol_ratio": 10.6
+    "mdd": -8.5,
+    "ma20": 333.89,
+    "disparity20": -0.1,
+    "volume": 6925800,
+    "vol_ratio": 82.3
   },
   {
     "name": "비자",
     "code": "V",
     "sector": "US (미국)",
-    "price": 402.42,
+    "price": 402.92,
     "rsi": {
-      "day": 73.4,
-      "week": 70.5,
-      "month": 67.9
+      "day": 73.8,
+      "week": 70.7,
+      "month": 68.0
     },
-    "mdd": -0.6,
-    "ma20": 376.35,
-    "disparity20": 6.9,
-    "volume": 619964,
-    "vol_ratio": 9.1
+    "mdd": -0.4,
+    "ma20": 376.37,
+    "disparity20": 7.1,
+    "volume": 5839500,
+    "vol_ratio": 86.1
   },
   {
     "name": "유나이티드헬스",
     "code": "UNH",
     "sector": "US (미국)",
-    "price": 404.5,
+    "price": 406.88,
     "rsi": {
-      "day": 64.9,
-      "week": 60.1,
-      "month": 51.5
+      "day": 66.0,
+      "week": 60.9,
+      "month": 51.8
     },
-    "mdd": -11.8,
-    "ma20": 379.92,
-    "disparity20": 6.5,
-    "volume": 901448,
-    "vol_ratio": 11.1
+    "mdd": -11.3,
+    "ma20": 380.04,
+    "disparity20": 7.1,
+    "volume": 4996900,
+    "vol_ratio": 61.6
   },
   {
     "name": "엑슨모빌",
     "code": "XOM",
     "sector": "US (미국)",
-    "price": 178.0,
+    "price": 178.28,
     "rsi": {
-      "day": 70.4,
-      "week": 67.0,
+      "day": 71.1,
+      "week": 67.3,
       "month": 73.0
     },
-    "mdd": -0.7,
-    "ma20": 167.1,
-    "disparity20": 6.5,
-    "volume": 1577590,
-    "vol_ratio": 12.0
+    "mdd": -0.6,
+    "ma20": 167.11,
+    "disparity20": 6.7,
+    "volume": 11157900,
+    "vol_ratio": 84.5
   },
   {
     "name": "오라클",
     "code": "ORCL",
     "sector": "US (미국)",
-    "price": 130.07,
+    "price": 129.59,
     "rsi": {
-      "day": 41.8,
-      "week": 40.7,
-      "month": 43.1
+      "day": 41.3,
+      "week": 40.5,
+      "month": 43.0
     },
-    "mdd": -54.1,
-    "ma20": 138.18,
-    "disparity20": -5.9,
-    "volume": 5069481,
-    "vol_ratio": 14.1
+    "mdd": -54.3,
+    "ma20": 138.15,
+    "disparity20": -6.2,
+    "volume": 23704500,
+    "vol_ratio": 65.6
   },
   {
     "name": "마스터카드",
     "code": "MA",
     "sector": "US (미국)",
-    "price": 614.96,
+    "price": 616.4,
     "rsi": {
-      "day": 72.9,
-      "week": 66.7,
-      "month": 63.3
+      "day": 74.3,
+      "week": 67.3,
+      "month": 63.5
     },
-    "mdd": -1.2,
-    "ma20": 577.05,
-    "disparity20": 6.6,
-    "volume": 392209,
-    "vol_ratio": 11.4
+    "mdd": -1.0,
+    "ma20": 577.12,
+    "disparity20": 6.8,
+    "volume": 2961900,
+    "vol_ratio": 86.4
   },
   {
     "name": "홈디포",
     "code": "HD",
     "sector": "US (미국)",
-    "price": 307.96,
+    "price": 309.88,
     "rsi": {
-      "day": 58.3,
-      "week": 44.9,
-      "month": 41.3
+      "day": 60.5,
+      "week": 45.6,
+      "month": 41.8
     },
-    "mdd": -20.9,
-    "ma20": 293.04,
-    "disparity20": 5.1,
-    "volume": 371869,
-    "vol_ratio": 5.3
+    "mdd": -20.4,
+    "ma20": 293.14,
+    "disparity20": 5.7,
+    "volume": 3936500,
+    "vol_ratio": 56.0
   },
   {
     "name": "P&G",
     "code": "PG",
     "sector": "US (미국)",
-    "price": 158.07,
+    "price": 157.69,
     "rsi": {
-      "day": 70.4,
-      "week": 65.0,
-      "month": 55.1
+      "day": 69.2,
+      "week": 64.3,
+      "month": 54.8
     },
-    "mdd": -4.1,
-    "ma20": 150.01,
-    "disparity20": 5.4,
-    "volume": 1059023,
-    "vol_ratio": 7.8
+    "mdd": -4.3,
+    "ma20": 149.99,
+    "disparity20": 5.1,
+    "volume": 10091100,
+    "vol_ratio": 74.6
   },
   {
     "name": "코스트코",
     "code": "COST",
     "sector": "US (미국)",
-    "price": 990.08,
+    "price": 995.53,
     "rsi": {
-      "day": 72.7,
-      "week": 58.4,
-      "month": 56.0
+      "day": 74.0,
+      "week": 59.3,
+      "month": 56.5
     },
-    "mdd": -9.6,
-    "ma20": 938.32,
-    "disparity20": 5.5,
-    "volume": 231985,
-    "vol_ratio": 9.2
+    "mdd": -9.1,
+    "ma20": 938.59,
+    "disparity20": 6.1,
+    "volume": 1744800,
+    "vol_ratio": 69.4
   },
   {
     "name": "존슨앤드존슨",
     "code": "JNJ",
     "sector": "US (미국)",
-    "price": 253.4,
+    "price": 253.79,
     "rsi": {
-      "day": 41.7,
-      "week": 51.3,
-      "month": 71.8
+      "day": 42.1,
+      "week": 51.5,
+      "month": 72.0
     },
-    "mdd": -9.8,
-    "ma20": 260.59,
-    "disparity20": -2.8,
-    "volume": 1168086,
-    "vol_ratio": 17.8
+    "mdd": -9.7,
+    "ma20": 260.61,
+    "disparity20": -2.6,
+    "volume": 8847400,
+    "vol_ratio": 135.1
   },
   {
     "name": "애브비",
     "code": "ABBV",
     "sector": "US (미국)",
-    "price": 285.98,
+    "price": 282.68,
     "rsi": {
-      "day": 72.7,
-      "week": 71.4,
-      "month": 77.8
+      "day": 67.5,
+      "week": 69.1,
+      "month": 77.3
     },
-    "mdd": -1.9,
-    "ma20": 269.61,
-    "disparity20": 6.1,
-    "volume": 748507,
-    "vol_ratio": 13.0
+    "mdd": -3.0,
+    "ma20": 269.45,
+    "disparity20": 4.9,
+    "volume": 4171300,
+    "vol_ratio": 72.2
   },
   {
     "name": "뱅크오브아메리카",
     "code": "BAC",
     "sector": "US (미국)",
-    "price": 51.26,
+    "price": 50.39,
     "rsi": {
-      "day": 24.4,
-      "week": 37.3,
-      "month": 52.2
+      "day": 21.8,
+      "week": 35.7,
+      "month": 50.9
     },
-    "mdd": -21.0,
-    "ma20": 54.05,
-    "disparity20": -5.1,
-    "volume": 6365957,
-    "vol_ratio": 9.9
+    "mdd": -22.4,
+    "ma20": 54.0,
+    "disparity20": -6.7,
+    "volume": 42782400,
+    "vol_ratio": 66.5
   },
   {
     "name": "세일즈포스",
     "code": "CRM",
     "sector": "US (미국)",
-    "price": 238.94,
+    "price": 242.45,
     "rsi": {
-      "day": 54.3,
-      "week": 60.5,
-      "month": 50.1
+      "day": 57.1,
+      "week": 61.9,
+      "month": 50.7
     },
-    "mdd": -10.8,
-    "ma20": 233.36,
-    "disparity20": 2.4,
-    "volume": 901626,
-    "vol_ratio": 10.8
+    "mdd": -9.5,
+    "ma20": 233.53,
+    "disparity20": 3.8,
+    "volume": 7039400,
+    "vol_ratio": 84.4
   },
   {
     "name": "넷플릭스",
     "code": "NFLX",
     "sector": "US (미국)",
-    "price": 69.47,
+    "price": 69.85,
     "rsi": {
-      "day": 42.6,
-      "week": 38.0,
-      "month": 38.2
+      "day": 43.6,
+      "week": 38.4,
+      "month": 38.5
     },
-    "mdd": -44.4,
-    "ma20": 70.12,
-    "disparity20": -0.9,
-    "volume": 7143747,
-    "vol_ratio": 16.2
+    "mdd": -44.1,
+    "ma20": 70.14,
+    "disparity20": -0.4,
+    "volume": 33894000,
+    "vol_ratio": 76.8
   },
   {
     "name": "코카콜라",
     "code": "KO",
     "sector": "US (미국)",
-    "price": 93.75,
+    "price": 93.42,
     "rsi": {
-      "day": 74.6,
-      "week": 69.6,
-      "month": 77.2
+      "day": 72.3,
+      "week": 68.7,
+      "month": 77.0
     },
-    "mdd": -0.4,
-    "ma20": 88.51,
-    "disparity20": 5.9,
-    "volume": 2915652,
-    "vol_ratio": 12.6
+    "mdd": -0.7,
+    "ma20": 88.49,
+    "disparity20": 5.6,
+    "volume": 16930100,
+    "vol_ratio": 73.3
   },
   {
     "name": "쉐브론",
     "code": "CVX",
     "sector": "US (미국)",
-    "price": 224.42,
+    "price": 224.37,
     "rsi": {
-      "day": 69.7,
+      "day": 69.6,
       "week": 67.8,
       "month": 70.1
     },
     "mdd": -0.6,
     "ma20": 210.65,
     "disparity20": 6.5,
-    "volume": 2009515,
-    "vol_ratio": 23.0
+    "volume": 9513000,
+    "vol_ratio": 109.1
   },
   {
     "name": "머크",
     "code": "MRK",
     "sector": "US (미국)",
-    "price": 146.35,
+    "price": 143.63,
     "rsi": {
-      "day": 52.9,
-      "week": 63.7,
-      "month": 77.2
+      "day": 47.8,
+      "week": 60.6,
+      "month": 75.0
     },
-    "mdd": -6.2,
-    "ma20": 145.58,
-    "disparity20": 0.5,
-    "volume": 1511974,
-    "vol_ratio": 13.5
+    "mdd": -7.9,
+    "ma20": 145.45,
+    "disparity20": -1.2,
+    "volume": 10448200,
+    "vol_ratio": 93.0
   },
   {
     "name": "AMD",
     "code": "AMD",
     "sector": "US (미국)",
-    "price": 546.91,
+    "price": 538.05,
     "rsi": {
-      "day": 42.8,
-      "week": 57.3,
-      "month": 69.1
+      "day": 40.5,
+      "week": 56.5,
+      "month": 68.2
     },
-    "mdd": -16.9,
-    "ma20": 606.97,
-    "disparity20": -9.9,
-    "volume": 5991955,
-    "vol_ratio": 26.7
+    "mdd": -18.3,
+    "ma20": 606.53,
+    "disparity20": -11.3,
+    "volume": 20153700,
+    "vol_ratio": 89.3
   },
   {
     "name": "펩시코",
     "code": "PEP",
     "sector": "US (미국)",
-    "price": 132.13,
+    "price": 133.57,
     "rsi": {
-      "day": 56.2,
-      "week": 42.3,
-      "month": 43.4
+      "day": 59.3,
+      "week": 44.5,
+      "month": 44.4
     },
-    "mdd": -20.6,
-    "ma20": 127.91,
-    "disparity20": 3.3,
-    "volume": 1611962,
-    "vol_ratio": 15.1
+    "mdd": -19.7,
+    "ma20": 127.98,
+    "disparity20": 4.4,
+    "volume": 9646100,
+    "vol_ratio": 90.2
   },
   {
     "name": "써모피셔",
     "code": "TMO",
     "sector": "US (미국)",
-    "price": 687.33,
+    "price": 679.38,
     "rsi": {
-      "day": 62.6,
-      "week": 71.4,
-      "month": 69.4
+      "day": 58.7,
+      "week": 69.1,
+      "month": 68.7
     },
-    "mdd": -2.4,
-    "ma20": 669.77,
-    "disparity20": 2.6,
-    "volume": 265644,
-    "vol_ratio": 12.6
+    "mdd": -3.5,
+    "ma20": 669.38,
+    "disparity20": 1.5,
+    "volume": 2403800,
+    "vol_ratio": 114.1
   },
   {
     "name": "어도비",
     "code": "ADBE",
     "sector": "US (미국)",
-    "price": 244.37,
+    "price": 247.09,
     "rsi": {
-      "day": 49.5,
-      "week": 47.1,
-      "month": 36.3
+      "day": 51.6,
+      "week": 48.0,
+      "month": 36.8
     },
-    "mdd": -32.8,
-    "ma20": 239.29,
-    "disparity20": 2.1,
-    "volume": 722155,
-    "vol_ratio": 18.4
+    "mdd": -32.1,
+    "ma20": 239.42,
+    "disparity20": 3.2,
+    "volume": 2924300,
+    "vol_ratio": 74.7
   },
   {
     "name": "웰스파고",
     "code": "WFC",
     "sector": "US (미국)",
-    "price": 83.21,
+    "price": 81.8,
     "rsi": {
-      "day": 50.0,
-      "week": 48.5,
-      "month": 56.4
+      "day": 45.6,
+      "week": 46.4,
+      "month": 54.9
     },
-    "mdd": -13.5,
-    "ma20": 81.79,
-    "disparity20": 1.7,
-    "volume": 2751424,
-    "vol_ratio": 8.6
+    "mdd": -14.9,
+    "ma20": 81.72,
+    "disparity20": 0.1,
+    "volume": 17197700,
+    "vol_ratio": 53.5
   },
   {
     "name": "액센츄어",
     "code": "ACN",
     "sector": "US (미국)",
-    "price": 230.93,
+    "price": 236.93,
     "rsi": {
-      "day": 73.9,
-      "week": 67.8,
-      "month": 48.1
+      "day": 75.9,
+      "week": 69.3,
+      "month": 49.2
     },
-    "mdd": -18.4,
-    "ma20": 198.77,
-    "disparity20": 16.2,
-    "volume": 844279,
-    "vol_ratio": 11.3
+    "mdd": -16.3,
+    "ma20": 199.07,
+    "disparity20": 19.0,
+    "volume": 6939400,
+    "vol_ratio": 92.7
   },
   {
     "name": "맥도날드",
     "code": "MCD",
     "sector": "US (미국)",
-    "price": 241.41,
+    "price": 242.67,
     "rsi": {
-      "day": 49.4,
-      "week": 34.0,
-      "month": 35.3
+      "day": 51.7,
+      "week": 34.6,
+      "month": 35.9
     },
-    "mdd": -28.0,
-    "ma20": 236.48,
-    "disparity20": 2.1,
-    "volume": 886445,
-    "vol_ratio": 12.2
+    "mdd": -27.6,
+    "ma20": 236.54,
+    "disparity20": 2.6,
+    "volume": 5385300,
+    "vol_ratio": 74.1
   },
   {
     "name": "시스코",
     "code": "CSCO",
     "sector": "US (미국)",
-    "price": 107.21,
+    "price": 106.5,
     "rsi": {
-      "day": 41.3,
-      "week": 50.4,
-      "month": 74.7
+      "day": 40.2,
+      "week": 49.8,
+      "month": 73.7
     },
-    "mdd": -17.1,
-    "ma20": 110.77,
-    "disparity20": -3.2,
-    "volume": 1942055,
-    "vol_ratio": 12.2
+    "mdd": -17.7,
+    "ma20": 110.74,
+    "disparity20": -3.8,
+    "volume": 14181300,
+    "vol_ratio": 89.3
   },
   {
     "name": "퀄컴",
     "code": "QCOM",
     "sector": "US (미국)",
-    "price": 177.16,
+    "price": 173.53,
     "rsi": {
-      "day": 48.4,
-      "week": 50.5,
-      "month": 52.5
+      "day": 44.8,
+      "week": 49.4,
+      "month": 51.8
     },
-    "mdd": -31.2,
-    "ma20": 182.82,
-    "disparity20": -3.1,
-    "volume": 1482817,
-    "vol_ratio": 11.8
+    "mdd": -32.6,
+    "ma20": 182.64,
+    "disparity20": -5.0,
+    "volume": 10554800,
+    "vol_ratio": 84.2
   },
   {
     "name": "GE에어로스페이스",
     "code": "GE",
     "sector": "US (미국)",
-    "price": 313.06,
+    "price": 311.28,
     "rsi": {
-      "day": 46.2,
-      "week": 44.7,
-      "month": 58.2
+      "day": 44.3,
+      "week": 44.1,
+      "month": 57.8
     },
-    "mdd": -19.4,
-    "ma20": 312.36,
-    "disparity20": 0.2,
-    "volume": 562300,
-    "vol_ratio": 13.4
+    "mdd": -19.8,
+    "ma20": 312.27,
+    "disparity20": -0.3,
+    "volume": 5055500,
+    "vol_ratio": 120.2
   },
   {
     "name": "IBM",
     "code": "IBM",
     "sector": "US (미국)",
-    "price": 234.01,
+    "price": 236.39,
     "rsi": {
-      "day": 55.9,
-      "week": 47.4,
-      "month": 48.3
+      "day": 58.3,
+      "week": 48.3,
+      "month": 48.7
     },
-    "mdd": -29.1,
-    "ma20": 226.43,
-    "disparity20": 3.3,
-    "volume": 634279,
-    "vol_ratio": 9.1
+    "mdd": -28.4,
+    "ma20": 226.55,
+    "disparity20": 4.3,
+    "volume": 4906600,
+    "vol_ratio": 70.6
   },
   {
     "name": "캐터필러",
     "code": "CAT",
     "sector": "US (미국)",
-    "price": 727.55,
+    "price": 725.79,
     "rsi": {
-      "day": 30.1,
-      "week": 38.4,
-      "month": 56.8
+      "day": 29.8,
+      "week": 38.2,
+      "month": 56.7
     },
-    "mdd": -32.1,
-    "ma20": 800.66,
-    "disparity20": -9.1,
-    "volume": 483038,
-    "vol_ratio": 16.8
+    "mdd": -32.3,
+    "ma20": 800.57,
+    "disparity20": -9.3,
+    "volume": 2640900,
+    "vol_ratio": 92.1
   },
   {
     "name": "인튜이트",
     "code": "INTU",
     "sector": "US (미국)",
-    "price": 319.38,
+    "price": 325.62,
     "rsi": {
-      "day": 57.6,
-      "week": 45.6,
-      "month": 35.4
+      "day": 61.5,
+      "week": 46.7,
+      "month": 36.1
     },
-    "mdd": -53.0,
-    "ma20": 293.22,
-    "disparity20": 8.9,
-    "volume": 407337,
-    "vol_ratio": 11.6
+    "mdd": -52.1,
+    "ma20": 293.53,
+    "disparity20": 10.9,
+    "volume": 2555800,
+    "vol_ratio": 72.5
   },
   {
     "name": "텍사스인스트루먼트",
     "code": "TXN",
     "sector": "US (미국)",
-    "price": 276.45,
+    "price": 276.15,
     "rsi": {
-      "day": 47.5,
-      "week": 53.1,
-      "month": 62.2
+      "day": 47.2,
+      "week": 53.0,
+      "month": 62.1
     },
-    "mdd": -16.8,
-    "ma20": 282.16,
-    "disparity20": -2.0,
-    "volume": 1001836,
-    "vol_ratio": 12.6
+    "mdd": -16.9,
+    "ma20": 282.15,
+    "disparity20": -2.1,
+    "volume": 9582000,
+    "vol_ratio": 120.5
   },
   {
     "name": "버라이즌",
     "code": "VZ",
     "sector": "US (미국)",
-    "price": 44.34,
+    "price": 44.15,
     "rsi": {
-      "day": 43.0,
-      "week": 47.0,
-      "month": 54.5
+      "day": 42.1,
+      "week": 46.6,
+      "month": 54.1
     },
-    "mdd": -12.9,
-    "ma20": 44.92,
-    "disparity20": -1.3,
-    "volume": 2411749,
-    "vol_ratio": 12.1
+    "mdd": -13.2,
+    "ma20": 44.91,
+    "disparity20": -1.7,
+    "volume": 16148200,
+    "vol_ratio": 81.2
   },
   {
     "name": "어플라이드머티어리얼즈",
     "code": "AMAT",
     "sector": "US (미국)",
-    "price": 423.97,
+    "price": 413.11,
     "rsi": {
-      "day": 34.8,
-      "week": 44.9,
-      "month": 56.5
+      "day": 30.8,
+      "week": 43.4,
+      "month": 55.7
     },
-    "mdd": -42.6,
-    "ma20": 488.35,
-    "disparity20": -13.2,
-    "volume": 1141611,
-    "vol_ratio": 13.4
+    "mdd": -44.1,
+    "ma20": 487.81,
+    "disparity20": -15.3,
+    "volume": 6750300,
+    "vol_ratio": 78.9
   },
   {
     "name": "서비스나우",
     "code": "NOW",
     "sector": "US (미국)",
-    "price": 143.13,
+    "price": 145.36,
     "rsi": {
-      "day": 56.7,
-      "week": 61.2,
-      "month": 47.8
+      "day": 58.9,
+      "week": 62.3,
+      "month": 48.4
     },
-    "mdd": -25.8,
-    "ma20": 138.19,
-    "disparity20": 3.6,
-    "volume": 2269048,
-    "vol_ratio": 14.7
+    "mdd": -24.7,
+    "ma20": 138.3,
+    "disparity20": 5.1,
+    "volume": 9553100,
+    "vol_ratio": 61.5
   },
   {
     "name": "인튜이티브서지컬",
     "code": "ISRG",
     "sector": "US (미국)",
-    "price": 431.98,
+    "price": 433.18,
     "rsi": {
-      "day": 67.2,
-      "week": 55.0,
-      "month": 44.4
+      "day": 67.7,
+      "week": 55.3,
+      "month": 44.6
     },
-    "mdd": -28.5,
-    "ma20": 412.67,
-    "disparity20": 4.7,
-    "volume": 623577,
-    "vol_ratio": 23.9
+    "mdd": -28.3,
+    "ma20": 412.73,
+    "disparity20": 5.0,
+    "volume": 2530200,
+    "vol_ratio": 97.0
   },
   {
     "name": "디즈니",
     "code": "DIS",
     "sector": "US (미국)",
-    "price": 109.76,
+    "price": 109.59,
     "rsi": {
-      "day": 61.6,
-      "week": 57.2,
-      "month": 54.6
+      "day": 60.9,
+      "week": 57.0,
+      "month": 54.4
     },
-    "mdd": -4.9,
-    "ma20": 106.15,
-    "disparity20": 3.4,
-    "volume": 703438,
-    "vol_ratio": 8.1
+    "mdd": -5.1,
+    "ma20": 106.14,
+    "disparity20": 3.3,
+    "volume": 5520600,
+    "vol_ratio": 63.9
   },
   {
     "name": "스타벅스",
     "code": "SBUX",
     "sector": "US (미국)",
-    "price": 97.12,
+    "price": 97.87,
     "rsi": {
-      "day": 53.2,
-      "week": 47.5,
-      "month": 52.1
+      "day": 55.6,
+      "week": 48.5,
+      "month": 52.6
     },
-    "mdd": -11.6,
-    "ma20": 94.46,
-    "disparity20": 2.8,
-    "volume": 1147147,
-    "vol_ratio": 12.2
+    "mdd": -10.9,
+    "ma20": 94.49,
+    "disparity20": 3.6,
+    "volume": 7067800,
+    "vol_ratio": 75.4
   },
   {
     "name": "마이크론",
     "code": "MU",
     "sector": "US (미국)",
-    "price": 917.25,
+    "price": 904.9,
     "rsi": {
-      "day": 40.2,
-      "week": 53.0,
-      "month": 66.6
+      "day": 38.4,
+      "week": 52.4,
+      "month": 66.0
     },
-    "mdd": -26.9,
-    "ma20": 1026.53,
-    "disparity20": -10.6,
-    "volume": 7251787,
-    "vol_ratio": 23.9
+    "mdd": -27.9,
+    "ma20": 1025.92,
+    "disparity20": -11.8,
+    "volume": 25616000,
+    "vol_ratio": 83.9
   }
 ]
